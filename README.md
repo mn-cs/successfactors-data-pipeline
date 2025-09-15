@@ -74,9 +74,7 @@ A data science project that collects profiles of successful individuals through 
     │
     ├── sql                     <- SQL scripts for database operations and queries
     │
-    ├── web_scrapers            <- Scripts to scrape data from websites
-    │
-    └── z_util                  <- Utility scripts and helper functions
+    └── web_scrapers            <- Scripts to scrape data from websites
 ```
 
 ---
