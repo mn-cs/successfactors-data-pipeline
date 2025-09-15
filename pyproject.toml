@@ -1,0 +1,56 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "successfactors"
+version = "0.0.1"
+description = "A data science project that collects profiles of successful individuals through APIs to analyze common traits and career paths."
+authors = [{ name = "Michael" }]
+license = { file = "LICENSE" }
+readme = "README.md"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License"
+]
+requires-python = ">=3.10,<3.13"
+
+# Runtime deps
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "python-dotenv",
+  "httpx",
+  "requests-cache",
+  "beautifulsoup4",
+  "lxml",
+  "loguru",
+  "psycopg[binary]>=3.2" 
+]
+
+[project.optional-dependencies]
+dev = [
+  "ipython",
+  "jupyterlab",
+  "notebook",
+  "loguru",
+  "matplotlib",
+  "mkdocs",
+  "pytest",
+  "ruff",
+  "tqdm",
+  "typer"
+]
+
+[tool.ruff]
+line-length = 99
+src = ["successfactors"]
+include = ["pyproject.toml", "successfactors/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["successfactors"]
+force-sort-within-sections = true

@@ -1,0 +1,3125 @@
+clean_name,year,month,day
+Elon Musk,1971.0,6.0,28.0
+Larry Ellison,1944.0,8.0,17.0
+Mark Zuckerberg,1984.0,5.0,14.0
+Jeff Bezos,1964.0,1.0,12.0
+Larry Page,1973.0,3.0,26.0
+Sergey Brin,1973.0,8.0,21.0
+Bernard Arnault & family,1949.0,3.0,5.0
+Steve Ballmer,1956.0,3.0,24.0
+Warren Buffett,1930.0,8.0,30.0
+Jensen Huang,1963.0,2.0,17.0
+Michael Dell,1965.0,2.0,23.0
+Rob Walton & family,1944.0,10.0,27.0
+Jim Walton & family,1948.0,6.0,7.0
+Amancio Ortega,1936.0,3.0,28.0
+Michael Bloomberg,1942.0,2.0,14.0
+Alice Walton,1949.0,10.0,7.0
+Bill Gates,1955.0,10.0,28.0
+Mukesh Ambani,1957.0,4.0,19.0
+Carlos Slim Helu & family,1940.0,1.0,28.0
+Francoise Bettencourt Meyers & family,1953.0,7.0,10.0
+Julia Koch & family,1962.0,4.0,12.0
+Thomas Peterffy,,,
+Changpeng Zhao,,,
+Charles Koch & family,1935.0,11.0,1.0
+Zhong Shanshan,,,
+Jeff Yass,,,
+Zhang Yiming,1983.0,4.0,1.0
+Ma Huateng,1971.0,10.0,29.0
+Gautam Adani,1962.0,6.0,24.0
+Masayoshi Son,1957.0,8.0,11.0
+Stephen Schwarzman,1947.0,2.0,14.0
+Ken Griffin,,,
+Dieter Schwarz,1939.0,9.0,24.0
+Tadashi Yanai & family,1949.0,2.0,7.0
+Robin Zeng,,,
+Lei Jun,1969.0,12.0,16.0
+William Ding,1971.0,10.0,1.0
+Mark Mateschitz,1992.0,5.0,7.0
+Colin Huang,1980.0,1.0,1.0
+Jacqueline Mars,1939.0,10.0,10.0
+John Mars,,,
+Giovanni Ferrero,1964.0,9.0,21.0
+Li Ka-shing,1928.0,7.0,29.0
+Eduardo Saverin,1982.0,3.0,19.0
+Lukas Walton,1986.0,9.0,19.0
+Reinhold Wuerth & family,1935.0,4.0,20.0
+Savitri Jindal & family,1950.0,3.0,20.0
+Rafaela Aponte-Diamant,1945.0,3.0,26.0
+Gianluigi Aponte,1940.0,6.0,27.0
+Klaus-Michael Kuehne,1937.0,6.0,2.0
+Gerard Wertheimer,1951.0,4.0,17.0
+Alain Wertheimer,1948.0,9.0,28.0
+Germán Larrea Mota Velasco & family,,,
+Andrea Pignataro,1970.0,6.0,10.0
+Miriam Adelson & family,1945.0,10.0,10.0
+Abigail Johnson,1961.0,12.0,19.0
+Phil Knight & family,1938.0,2.0,24.0
+MacKenzie Scott,1970.0,4.0,7.0
+Prajogo Pangestu,1944.0,5.0,13.0
+Thomas Frist Jr & family,,,
+Marilyn Simons & family,1938.0,4.0,25.0
+Shiv Nadar,1945.0,7.0,14.0
+Iris Fontbona & family,1944.0,10.0,2.0
+Eyal Ofer,1950.0,6.0,2.0
+Elaine Marshall & family,1945.0,11.0,18.0
+Len Blavatnik,1957.0,6.0,14.0
+Gina Rinehart,1954.0,2.0,9.0
+He Xiangjian & family,1942.0,10.0,5.0
+Melinda French Gates,1964.0,8.0,15.0
+Emmanuel Besnier,1970.0,9.0,18.0
+Vagit Alekperov,1950.0,9.0,1.0
+Jack Ma,1964.0,9.0,10.0
+Idan Ofer,1955.0,10.0,2.0
+Alexey Mordashov & family,1965.0,9.0,26.0
+Leonid Mikhelson & family,1955.0,8.0,11.0
+Susanne Klatten,1962.0,4.0,28.0
+Henry Samueli,1954.0,9.0,20.0
+Andreas von Bechtolsheim & family,1955.0,9.0,30.0
+Lyndal Stephens Greth & family,,,
+Eric Schmidt,1955.0,4.0,27.0
+Stefan Quandt,1966.0,5.0,9.0
+Vladimir Lisin,1956.0,5.0,7.0
+Daniel Gilbert,,,
+Wang Ning & family,,,
+Low Tuck Kwong,,,
+Chen Tianshi,,,
+Wang Chuanfu,1966.0,4.0,8.0
+Rupert Murdoch & family,1931.0,3.0,11.0
+Aliko Dangote,1957.0,4.0,10.0
+Vladimir Potanin,1961.0,1.0,3.0
+Robert Pera,1978.0,3.0,10.0
+Dilip Shanghvi,1955.0,10.0,1.0
+Peter Thiel,1967.0,10.0,11.0
+David Tepper,1957.0,9.0,11.0
+Cyrus Poonawalla,1941.0,5.0,11.0
+Gennady Timchenko,1952.0,11.0,9.0
+Zheng Shuliang & family,1991.0,8.0,22.0
+Steve Cohen,,,
+Vicky Safra & family,1952.0,7.0,1.0
+Ernest Garcia II,1957.0,5.0,1.0
+Giancarlo Devasini,,,
+Diane Hendricks,1947.0,3.0,2.0
+François Pinault & family,1936.0,8.0,21.0
+Kumar Birla,1967.0,6.0,14.0
+Qin Yinglin,,,
+Stanley Kroenke,1947.0,7.0,29.0
+Rick Cohen & family,1961.0,11.0,18.0
+Huang Shilin,,,
+John Menard Jr,1940.0,1.0,22.0
+R. Budi Hartono,1941.0,4.0,28.0
+Christy Walton,1949.0,2.0,8.0
+Harry Triguboff,1933.0,3.0,3.0
+Renata Kellnerova & family,1967.0,7.0,4.0
+Jerry Jones & family,,,
+Henry Nicholas III,1959.0,10.0,8.0
+Radhakishan Damani,1955.0,7.0,12.0
+Philip Anschutz,1939.0,12.0,28.0
+Zhong Huijuan,,,
+Michael Hartono,1939.0,10.0,2.0
+Donald Bren,1932.0,5.0,11.0
+Lakshmi Mittal,1950.0,6.0,15.0
+Lu Xiangyang,,,
+Israel Englander,,,
+Michael Platt,,,
+Stefan Persson,,,
+Takemitsu Takizaki,1945.0,6.0,10.0
+Vinod Adani,,,
+Eric Li,1953.0,5.0,23.0
+Zhang Zhidong,1837.0,9.0,2.0
+David Cheriton,1951.0,3.0,29.0
+Eric Smidt,,,
+Andrey Melnichenko & family,,,
+John Fredriksen,1944.0,5.0,10.0
+Adam Foroughi,,,
+Lin Bin,,,
+James Ratcliffe,1952.0,10.0,18.0
+Todd Graves,,,
+Pavel Durov,1984.0,10.0,10.0
+Stephen Ross,,,
+Dhanin Chearavanont,1939.0,4.0,19.0
+Jan Koum,1976.0,2.0,24.0
+Beate Heister,1951.0,10.0,5.0
+Karl Albrecht Jr. & family,,,
+Theo Albrecht Jr & family,,,
+Alisher Usmanov,1953.0,9.0,9.0
+Sherry Brydson,,,
+George Roberts,,,
+Jorge Paulo Lemann & family,1939.0,8.0,26.0
+Ludwig Merckle,,,
+Suleiman Kerimov & family,1966.0,3.0,12.0
+Andrew Forrest & family,1961.0,11.0,18.0
+Wang Wei,,,
+Arthur Dantchik,,,
+Kushal Pal Singh,1931.0,8.0,15.0
+Yu Yong,1961.0,2.0,27.0
+Harold Hamm & family,1945.0,12.0,11.0
+John Doerr,1951.0,6.0,29.0
+Prince Alwaleed Bin Talal Alsaud,1955.0,3.0,7.0
+Brad Jacobs,1985.0,6.0,11.0
+Nancy Walton Laurie,1951.0,5.0,15.0
+Jay Chaudhry,,,
+Donald Newhouse,,,
+Ray Dalio,1949.0,8.0,8.0
+Henry Kravis,1944.0,1.0,6.0
+Robert Duggan,,,
+Lin Muqin & family,1990.0,6.0,1.0
+James Goodnight,1943.0,1.0,6.0
+James Dyson,1947.0,5.0,2.0
+Zhu Yi,,,
+Hasso Plattner & family,1944.0,1.0,21.0
+Mikhail Fridman,1964.0,4.0,21.0
+Dang Yanbao,,,
+Torstein Hagen,,,
+Qi Shi & family,,,
+Martin Lorentzon,1969.0,4.0,1.0
+David Velez & family,,,
+Kwong Siu-hing,1929.0,12.0,2.0
+Alexander Karp,1967.0,10.0,2.0
+George Kaiser,1942.0,7.0,29.0
+Shahid Khan,1950.0,7.0,18.0
+Sun Piaoyang,,,
+Edward Johnson IV,1878.0,8.0,22.0
+Otto Toto Sugiri,1953.0,9.0,23.0
+Jack Dangermond,,,
+Friedhelm Loh,1946.0,8.0,16.0
+Zhou Qunfei,,,
+Antony Ressler,1960.0,10.0,12.0
+Robert Kraft,1941.0,6.0,5.0
+Michal Solowow,1962.0,7.0,11.0
+Ravi Jaipuria,,,
+Charlene de Carvalho-Heineken & family,1954.0,6.0,30.0
+Uday Kotak,1959.0,3.0,15.0
+John Tu,1941.0,8.0,12.0
+David Sun,,,
+Peter Woo,1946.0,9.0,5.0
+Bubba Cathy,,,
+Dan Cathy,1953.0,3.0,1.0
+Trudy Cathy White,,,
+Joseph Lau,1951.0,7.0,19.0
+Johann Rupert & family,,,
+Sunil Mittal,1957.0,10.0,23.0
+Antonia Ax:son Johnson & family,1943.0,9.0,6.0
+Anders Holch Povlsen,1972.0,11.0,4.0
+Li Xiting,,,
+Simon Reuben,,,
+David Reuben,,,
+Ken Fisher,1950.0,11.0,29.0
+Charles Schwab,,,
+Pham Nhat Vuong,1968.0,8.0,5.0
+Ralph Lauren & Family,1939.0,10.0,14.0
+Alejandro Baillères Gual & family,,,
+Xavier Niel & family,1967.0,8.0,25.0
+Terry Gou,1950.0,10.0,18.0
+Leon Black,1951.0,7.0,31.0
+David Duffield,1940.0,9.0,21.0
+Orlando Bravo,,,
+Wei Jianjun & family,,,
+Ann Walton Kroenke,1948.0,12.0,18.0
+Kenneth Dart,,,
+Michael Sabel,,,
+Robert Pender,,,
+Brian Armstrong,,,
+Georg Schaeffler,1964.0,10.0,19.0
+Laurene Powell Jobs,1963.0,11.0,6.0
+Robert Kuok,1923.0,10.0,6.0
+David Steward,1951.0,7.0,2.0
+Barry Lam,1949.0,4.0,24.0
+Elizabeth Johnson,,,
+Wang Liping & family,,,
+Enrique Razon Jr.,1960.0,3.0,3.0
+Giorgio Armani,1934.0,7.0,11.0
+Tobi Lutke,,,
+J. Christopher Reyes,,,
+Jude Reyes,,,
+Joseph Tsai,,,
+Andrew Beal,1952.0,11.0,29.0
+Dustin Moskovitz,1984.0,5.0,22.0
+Carl Cook,1962.0,11.0,10.0
+Georg Stumpf,1972.0,3.0,29.0
+Jim Pattison,1928.0,10.0,1.0
+Mike Cannon-Brookes,1979.0,11.0,17.0
+Ernesto Bertarelli,1965.0,9.0,22.0
+Azim Premji,1945.0,7.0,24.0
+Jay Y. Lee,1968.0,6.0,23.0
+Charoen Sirivadhanabhakdi & family,1944.0,5.0,2.0
+Arthur Blank,1942.0,9.0,27.0
+Scott Farquhar,,,
+Patrick Ryan,,,
+Forrest Li,,,
+Andreas Struengmann & family,,,
+Thomas Struengmann & family,,,
+Liu Yongxing,,,
+"Ernest Garcia, III",,,
+Richard Kinder,1944.0,10.0,19.0
+Josh Harris,,,
+Kirsten Rausing,1952.0,6.0,6.0
+Jorn Rausing,1960.0,2.0,12.0
+Finn Rausing,,,
+Jaime Gilinski Bacal,1957.0,12.0,14.0
+Manuel Villar,1949.0,12.0,13.0
+Pierre Omidyar,1967.0,6.0,21.0
+Pei Zhenhua,,,
+Riley Bechtel & family,1952.0,3.0,25.0
+Ramzi Musallam,,,
+Yi Zheng,,,
+Mikhail Prokhorov,1965.0,5.0,3.0
+Li Shuirong & family,,,
+Michal Strnad,,,
+Johann Graf,1946.0,1.0,3.0
+Marijke Mars,,,
+Victoria Mars,,,
+Valerie Mars,1959.0,1.0,20.0
+Pamela Mars,,,
+Tilman Fertitta,1957.0,6.0,25.0
+John Malone,1941.0,3.0,7.0
+Alexander Otto,,,
+Andre Esteves,1968.0,7.0,12.0
+Nicky Oppenheimer & family,1945.0,6.0,8.0
+Vincent Bolloré & family,1952.0,4.0,1.0
+Vikram Lal & family,,,
+Leonid Fedun,1956.0,4.0,5.0
+Marina Budiman,,,
+Charles Butt,1938.0,2.0,3.0
+Mark Stevens,,,
+Jonathan Gray,,,
+Tse Ping & family,1991.0,11.0,9.0
+Quek Leng Chan,1943.0,8.0,12.0
+Hussain Sajwani,,,
+Anthony Bamford & family,1945.0,10.0,23.0
+Taylor Thomson,,,
+Peter Thomson,,,
+David Thomson,,,
+Karel Komarek,1969.0,3.0,15.0
+Sandra Ortega Mera,1968.0,7.0,19.0
+Carl Bennet,1951.0,8.0,19.0
+Micky Arison,1949.0,6.0,29.0
+Daniel Kretinsky,1975.0,7.0,9.0
+John Collison,1990.0,8.0,6.0
+Patrick Collison,1988.0,9.0,9.0
+Marie Besnier Beauvalot,1980.0,7.0,30.0
+Jean-Michel Besnier,,,
+Robert F. Smith,,,
+Gong Hongjia & family,,,
+Piero Ferrari & family,1945.0,5.0,22.0
+Jeffery Hildebrand,,,
+Wu Jianshu,,,
+Francine von Finck & family,1930.0,3.0,11.0
+Harry Stine & Family,,,
+Vinod Khosla,1955.0,1.0,28.0
+Daniel Ek,1983.0,2.0,21.0
+Xu Gaoming,1984.0,9.0,14.0
+Carrie Perrodo & family,,,
+Sulaiman Al Habib,,,
+Murali Divi & family,1984.0,4.0,1.0
+Dmitri Bukhman,1985.0,5.0,27.0
+Igor Bukhman,1982.0,3.0,29.0
+German Khan,1961.0,10.0,24.0
+Wang Laisheng,1903.0,2.0,21.0
+Nadia Thiele & family,,,
+Viktor Rashnikov,1948.0,10.0,13.0
+Michael Rubin,,,
+Juan Roig,1949.0,10.0,8.0
+Paolo Ardoino,,,
+Jean-Louis van der Velde,,,
+Michael Kim,,,
+Michael Otto,,,
+Andrei Guryev & family,1960.0,3.0,24.0
+Viatcheslav Kantor,1953.0,9.0,8.0
+Gabe Newell,1962.0,11.0,3.0
+Randa Duncan Williams,,,
+Li Hua,,,
+Wang Laichun,,,
+Dannine Avara,,,
+Chen Tao & family,,,
+Milane Frantz,,,
+Mat Ishbia,1980.0,1.0,6.0
+Ivan Glasenberg,1957.0,1.0,7.0
+Tom Gores,1964.0,7.0,31.0
+Chris Larsen,,,
+Jim Kennedy,,,
+Blair Parry-Okeden,,,
+Marcos Galperin,1971.0,10.0,31.0
+Pang Kang,,,
+Terrence Pegula,1951.0,3.0,27.0
+Ken Langone,1935.0,9.0,16.0
+Wang Weixiu & family,1987.0,10.0,11.0
+Todd Boehly,1973.0,9.0,20.0
+Christopher Hohn,,,
+Cho Jung-ho,1958.0,10.0,5.0
+Roman Abramovich & family,1966.0,10.0,24.0
+Graeme Hart,,,
+Scott Duncan,,,
+Tahir & family,,,
+Francesco Gaetano Caltagirone,1943.0,3.0,2.0
+Douglas Leone,1957.0,7.0,4.0
+Les Wexner & family,1937.0,9.0,8.0
+Sky Xu,,,
+Marc Benioff,1964.0,9.0,25.0
+Pankaj Patel,1953.0,3.0,16.0
+Viktor Vekselberg,1957.0,4.0,14.0
+William Ackman,1966.0,5.0,11.0
+Cen Junda,1961.0,6.0,16.0
+Bruce Kovner,1945.0,2.0,25.0
+Magdalena Martullo-Blocher,1969.0,8.0,13.0
+Cao Renxian,,,
+Laurent Dassault,1953.0,7.0,7.0
+Elisabeth DeLuca & family,1947.0,10.0,3.0
+Brian Chesky,1981.0,8.0,29.0
+Eric Wittouck,,,
+Jeff Greene,1954.0,12.0,10.0
+Thierry Dassault,1957.0,3.0,26.0
+Marie-Hélène Habert-Dassault,,,
+Maria Asuncion Aramburuzabala & family,1963.0,5.0,2.0
+Michael Saylor,1965.0,2.0,4.0
+Rakesh Mittal,,,
+Rajan Mittal,,,
+Pavel Tykac,1964.0,5.0,15.0
+David Geffen,1943.0,2.0,21.0
+David Shaw,,,
+Wang Xing,1979.0,2.0,18.0
+Robert Rowling,,,
+Ronda Stryker,,,
+Sri Prakash Lohia,1952.0,8.0,11.0
+Chen Jianhua,,,
+Charles Ergen,1953.0,3.0,1.0
+Jimmy Haslam,1954.0,3.0,9.0
+Nassef Sawiris,1961.0,1.0,19.0
+Rahul Bhatia,1998.0,11.0,24.0
+Ling Tang,1976.0,5.0,7.0
+Richard White,,,
+Neil Bluhm,,,
+Nathan Blecharczyk,,,
+Luis Carlos Sarmiento,1933.0,1.0,27.0
+Xu Hang,,,
+Li Ping,,,
+Anthony Pratt,1960.0,4.0,11.0
+Juergen Blickle,,,
+Pauline MacMillan Keinath,1934.0,7.0,31.0
+Justin Sun,1990.0,7.0,30.0
+Rafael Del Pino,,,
+Stephen Bisciotti,1960.0,4.0,10.0
+Michael Dorrell,,,
+John Brown,,,
+Dan Friedkin,1965.0,2.0,27.0
+J. Joe Ricketts & family,1941.0,7.0,16.0
+Denise Coates,1967.0,9.0,26.0
+Tamara Gustavson,,,
+Patrick Drahi,1963.0,8.0,20.0
+Charles Simonyi,1948.0,9.0,10.0
+Denise York & family,,,
+Leonard Stern,,,
+Leo KoGuan,,,
+Alexandra Schoerghuber & family,1958.0,7.0,24.0
+Don Hankey,1943.0,6.0,13.0
+Kerry Stokes,1940.0,9.0,13.0
+Steven Rales,1951.0,3.0,31.0
+Liu Hanyuan,1994.0,8.0,3.0
+Rekha Jhunjhunwala,,,
+Francis Choi,,,
+Lin Li,,,
+Paul Tudor Jones II,1954.0,9.0,28.0
+Liang Wengen,,,
+Zhang Congyuan,,,
+David Baszucki,1963.0,1.0,20.0
+Jean Salata,1965.0,12.0,22.0
+Zhang Hongfu,,,
+Zhang Hongchao,,,
+Gaye Farncombe,,,
+Linda Campbell,,,
+Igor Olenicoff,,,
+John Overdeck,,,
+David Siegel,,,
+Andreas Halvorsen,,,
+Nathan Kirsh,1932.0,1.0,6.0
+Joe Gebbia,1981.0,8.0,21.0
+Gayle Benson,1947.0,1.0,26.0
+Frank Lowy,1930.0,10.0,22.0
+Nik Storonsky,1984.0,7.0,21.0
+Fernando Roberto Moreira Salles,,,
+Alain Merieux & family,1938.0,7.0,10.0
+John Morris,,,
+Marc Rowan,1962.0,8.0,19.0
+Philippe Laffont,,,
+Juan Carlos Escotet,,,
+Rinat Akhmetov,1966.0,9.0,21.0
+Fredrik Lundberg,1951.0,8.0,5.0
+Benu Gopal Bangur,,,
+Guillaume Pousaz,1981.0,8.0,1.0
+Judy Faulkner,1943.0,8.0,11.0
+Sami Mnaymneh,,,
+Tony Tamer,1957.0,10.0,12.0
+Dennis Washington,1934.0,7.0,27.0
+Stanley Druckenmiller,1953.0,6.0,14.0
+Tanya Saadé Zeenny,,,
+Rodolphe Saadé,1970.0,3.0,3.0
+Jacques Saadé Jr,,,
+George Kurtz,1970.0,10.0,14.0
+Chen Bang,,,
+Leonid Radvinsky,,,
+Law Kar Po,,,
+Jim Kavanaugh,,,
+Hasmukh Chudgar & family,,,
+Sofie Kirk Kristiansen,1976.0,11.0,18.0
+Thomas Kirk Kristiansen,1979.0,2.0,18.0
+Agnete Kirk Thinggaard,1983.0,5.0,18.0
+Roger Penske,1937.0,2.0,20.0
+Andrew Cherng,,,
+Peggy Cherng,,,
+Gopikishan Damani,,,
+Edward Roski Jr,,,
+Jeffrey Lurie & family,1951.0,9.0,8.0
+Alexei Kuzmichev,1962.0,10.0,15.0
+Peter Gilgan,,,
+Ding Shizhong,,,
+Thomas Schmidheiny,1945.0,12.0,17.0
+Mangal Prabhat Lodha,1955.0,12.0,1.0
+Maria Angelicoussis,,,
+Melanie Perkins,,,
+Cliff Obrecht,,,
+Georg Nemetschek & family,,,
+Viktor Kharitonin,,,
+George Soros,1930.0,8.0,12.0
+Alexander Gerko,1979.0,12.0,3.0
+Philip Ng,1977.0,9.0,16.0
+Kelcy Warren,1955.0,11.0,5.0
+Michael Milken,1946.0,7.0,4.0
+John Sall,,,
+Gary Rollins & family,1944.0,8.0,30.0
+Dona Bertarelli,1968.0,3.0,3.0
+Andrei Skoch & family,1966.0,1.0,30.0
+Timur Turlov,1987.0,11.0,13.0
+Lachhman Das Mittal,,,
+Robert Ng,,,
+Shapoor Mistry,,,
+Li Ge,1969.0,4.0,12.0
+Tench Coxe,,,
+Min Kao & family,,,
+Pedro Moreira Salles,1959.0,10.0,20.0
+Massimiliana Landini Aleotti & family,1942.0,8.0,7.0
+Wang Yusuo & family,,,
+John Grayken,,,
+Iskander Makhmudov,1963.0,12.0,5.0
+Lynsi Snyder,1982.0,5.0,5.0
+Janice McNair & family,1936.0,9.0,30.0
+Remon Vos,1909.0,9.0,27.0
+Maximilian Viessmann,,,
+Ding Shijia,,,
+Jim Davis & family,,,
+Cai Haoyu,1987.0,7.0,29.0
+James Clark,,,
+Carlos Alberto Sicupira & family,,,
+Seo Jung-jin,,,
+Dirk Ziff,,,
+Robert Ziff,,,
+Daniel Ziff,,,
+Sudhir Mehta,,,
+Samir Mehta,,,
+Richard Tsai,,,
+Daniel Tsai,,,
+Radovan Vitek,,,
+Scott Cook,,,
+Teddy Sagi,1971.0,11.0,14.0
+Chase Coleman III,1975.0,6.0,1.0
+Vyacheslav Kim,1969.0,6.0,12.0
+Tsai Eng-meng,,,
+Claudio Del Vecchio,,,
+Rocco Basilico,,,
+Clemente Del Vecchio,,,
+Luca Del Vecchio,,,
+Paola Del Vecchio,1980.0,7.0,5.0
+Nicoletta Zampillo,,,
+Leonardo Maria Del Vecchio,,,
+Marisa Del Vecchio,,,
+Zhang Xuexin & family,1901.0,6.0,3.0
+Edythe Broad & family,,,
+Joe Lewis,,,
+Bruce Flatt,1965.0,6.0,10.0
+Mark Meijer & family,,,
+Hank Meijer & family,,,
+Doug Meijer & family,,,
+Odd Reitan & family,1951.0,9.0,11.0
+Yuri Milner,1961.0,11.0,11.0
+Clive Calder,1946.0,12.0,13.0
+Marian Ilitch & family,1933.0,1.0,7.0
+Wu Yajun,,,
+Jason Chang,1944.0,5.0,18.0
+Kjeld Kirk Kristiansen,1947.0,12.0,27.0
+Hao Tang,1970.0,11.0,27.0
+Rahel Blocher,,,
+Jorge Moll Filho & family,1946.0,1.0,23.0
+Michael Moritz,1954.0,9.0,12.0
+You Xiaoping & family,1934.0,1.0,0.0
+Michael Kadoorie,,,
+Wolfgang Marguerre & family,1941.0,1.0,1.0
+Han Arming Hanafia,,,
+Paul Singer,,,
+Jaran Chiaravanont,,,
+Chip Wilson,1955.0,4.0,25.0
+Alain Bouchard,,,
+Martin Haefner,,,
+Maria Fernanda Amorim & family,,,
+Karen Pritzker,,,
+Zou Zhinong & family,,,
+Joseph Liemandt,,,
+Abdulsamad Rabiu,1960.0,8.0,4.0
+Erich Wesjohann & family,,,
+Pierre Chen,,,
+Yasumitsu Shigeta,,,
+Robert Rich Jr,,,
+Michael Federmann & family,1943.0,9.0,9.0
+Helmut Sohmen,1939.0,12.0,10.0
+Arnon Milchan,1944.0,12.0,6.0
+Theo Mueller,1940.0,1.0,29.0
+H. Ross Perot Jr,1958.0,11.0,7.0
+Ron Baron,,,
+Ray Lee Hunt,,,
+Miguel Krigsner,,,
+Dmitry Rybolovlev & family,1966.0,11.0,22.0
+Thomas Hagen & family,,,
+Herb Simon,1916.0,6.0,15.0
+Frederik Paulsen,,,
+Liu Yonghao & family,,,
+Matthew Prince,1974.0,11.0,13.0
+Ty Warner,1944.0,9.0,3.0
+Tomasz Biernacki,,,
+Tom Golisano,1941.0,11.0,14.0
+Reed Hastings,1960.0,10.0,8.0
+Yitzhak Tshuva,1948.0,7.0,7.0
+Venu Srinivasan,,,
+Satyanarayan Nuwal,,,
+Lynda Resnick,,,
+Stewart Resnick,1936.0,12.0,24.0
+Ma Jianrong,,,
+Jiang Rensheng & family,,,
+Mike Adenuga,1953.0,4.0,29.0
+Steve Lavin & family,1964.0,9.0,4.0
+John A. Sobrato & family,1939.0,5.0,23.0
+William Berkley & family,,,
+Xu Shihui,,,
+Elizabeth Uihlein,,,
+Richard Uihlein,,,
+Vincent Viola,,,
+Mark Walter,1960.0,1.0,1.0
+Carl Douglas,1942.0,5.0,10.0
+Takao Yasuda,1963.0,10.0,9.0
+Stuart Hoegner,,,
+Annette Lerner & family,,,
+James Chambers,,,
+Margaretta Taylor,,,
+Katharine Rayner,,,
+Rajiv Bajaj,1966.0,12.0,21.0
+Sanjiv Bajaj,1969.0,11.0,2.0
+Stephen Smith,,,
+Baiju Bhatt,,,
+Eric Lefkofsky,1969.0,9.0,2.0
+Robert Bass,1948.0,3.0,19.0
+Zhou Chaonan,1998.0,3.0,18.0
+Justin Ishbia,,,
+Michael Intrator,,,
+Mitchell Morgan & family,,,
+Stefano Pessina,1941.0,6.0,4.0
+Eric Douglas,1958.0,6.0,21.0
+Richard Li,1966.0,11.0,8.0
+Mark Scheinberg,,,
+Robert Hale Jr,,,
+Mark Cuban,1958.0,7.0,31.0
+Gang Ye,1979.0,3.0,15.0
+Richard Liu,1973.0,3.0,10.0
+Kjell Inge Rokke,1958.0,10.0,25.0
+Dan Kurzius,,,
+Ronald Wanek,,,
+Donald Trump,1946.0,6.0,14.0
+William Goldring & family,,,
+Reinhold Schmieding,,,
+Daryl Katz,1961.0,5.0,31.0
+Alexander Abramov,1959.0,2.0,20.0
+Shari Arison,1957.0,9.0,9.0
+Heinrich Otto Deichmann,,,
+Wolfgang Herz,,,
+Michael Herz,,,
+Matthias Reinhart,,,
+Neal Blue & family,,,
+Stefan von Holtzbrinck,,,
+Yu Renrong,,,
+Trevor Rees-Jones,,,
+Rick Caruso,1959.0,1.0,7.0
+John Reece,,,
+Jiang Bin,,,
+Nusli Wadia,1944.0,2.0,15.0
+Andrew Currie,,,
+Rakesh Gangwal,1953.0,7.0,25.0
+Dirk Rossmann & family,,,
+Joe Mansueto,1956.0,9.0,3.0
+Archie Aldis Emmerson & family,,,
+Mikhail Lomtadze,1975.0,10.0,17.0
+Don Vultaggio & family,,,
+Thomas Pritzker,1950.0,6.0,6.0
+Martha Ingram & family,1935.0,8.0,20.0
+Robin Li,1968.0,11.0,17.0
+Isabel Boehringer,,,
+Albert Boehringer,1861.0,8.0,11.0
+Johannes von Baumbach,,,
+Katharina von Baumbach,,,
+Philipp Boehringer,,,
+Erich von Baumbach,,,
+Otto Boehringer,,,
+Barbara Boehringer,,,
+Ulrike von Baumbach,,,
+Hubertus von Baumbach,,,
+Maximilian von Baumbach,,,
+Mathias Boehringer,,,
+Franz von Baumbach,,,
+Christoph Boehringer,,,
+Christian Boehringer,,,
+Mikhail Gutseriev,1958.0,3.0,9.0
+Garrett Camp,1978.0,10.0,4.0
+Jon Stryker,,,
+Dinara Kulibaeva,1968.0,8.0,19.0
+Bill Haslam,1958.0,8.0,23.0
+Thomas Secunda,,,
+Timur Kulibayev,1966.0,9.0,10.0
+John Henry,,,
+Leonid Boguslavsky,1951.0,6.0,17.0
+Paolo Rocca,1952.0,10.0,14.0
+Gianfelice Rocca,1948.0,3.0,2.0
+Vladimir Kim,1960.0,10.0,29.0
+Carl Thoma,1972.0,6.0,15.0
+Tsai Hong-tu,1952.0,8.0,1.0
+Dietmar Hopp & family,1940.0,4.0,26.0
+Li Xiang,,,
+Horst Julius Pudwill,,,
+Agoes Projosasmito,,,
+Zong Fuli,,,
+Vivek Chaand Sehgal,1957.0,2.0,1.0
+Max Van Hoegaerden Herrmann Telles,,,
+Franz Viegener,,,
+Mario Verrocchi,,,
+Renuka Jagtiani,1952.0,8.0,15.0
+Yang Shaopeng,,,
+Margarita Louis-Dreyfus & family,1962.0,7.0,1.0
+Rocco Commisso,1949.0,11.0,25.0
+Anna Viegener,,,
+Samuel Yin,1950.0,8.0,16.0
+Sergio Stevanato & family,,,
+Vlad Tenev,1987.0,2.0,13.0
+Bert Beveridge,,,
+Tsai Cheng-ta,1954.0,7.0,26.0
+Charles B. Johnson,1933.0,1.0,6.0
+Alexandre Behring,,,
+Romesh T. Wadhwani,,,
+Gordon Getty & family,1933.0,12.0,20.0
+Zhu Yan & family,,,
+Michael Novogratz,1964.0,11.0,26.0
+Jerzy Starak,,,
+Patrick Soon-Shiong,1952.0,7.0,29.0
+Ken Xie & family,,,
+Arkady Rotenberg,1951.0,12.0,15.0
+Ricardo Salinas Pliego & family,1955.0,10.0,19.0
+Jack Dorsey,1976.0,11.0,19.0
+Stephen Cohen,,,
+Jon Yarbrough,,,
+Jeremy Jacobs Sr & family,1940.0,1.0,21.0
+Sofia Högberg Schörling,,,
+Märta Schörling Andreen,,,
+Zhu Baoguo & family,1921.0,7.0,2.0
+Jeff Skoll,1965.0,1.0,16.0
+Michael Ashley,,,
+Russ Weiner,1970.0,2.0,15.0
+Frank Wang,,,
+George Lucas,1944.0,5.0,14.0
+Murat Ulker,1959.0,3.0,21.0
+M.A. Yusuff Ali,1955.0,11.0,15.0
+Zhang Daocai,,,
+Nikolai Buinov,,,
+Gwendolyn Sontheim Meyer,,,
+Zhang Yong,,,
+Edward Stack & family,,,
+Torbjorn Tornqvist,,,
+Karsanbhai Patel,,,
+Giuseppe De'Longhi & family,1939.0,4.0,24.0
+Ian Livingstone,1949.0,12.0,29.0
+Richard Livingstone,1880.0,1.0,23.0
+Li Min,,,
+Jim Coulter,,,
+Qian Dongqi,,,
+Ben Chestnut,,,
+Smita Crishna Godrej,,,
+Hortensia Herrero,1950.0,5.0,20.0
+Niels Peter Louis-Hansen,1947.0,10.0,25.0
+Andre Koo,1958.0,9.0,22.0
+Daniel D'Aniello,1946.0,9.0,14.0
+Steven Spielberg,1946.0,12.0,18.0
+Chandru Raheja,,,
+Gao Dekang & family,1973.0,1.0,18.0
+Tomas Olivo Lopez,,,
+Gil Shwed,,,
+Nicolas D'Ieteren,,,
+Margot Birmingham Perot,,,
+Liu Jingkang,,,
+Hans Georg Naeder & family,,,
+Chen Zhiping,1965.0,8.0,22.0
+Bob Gaglardi & family,,,
+Willy Michel,1947.0,4.0,29.0
+Jamshyd Godrej,,,
+Josh Kushner,1985.0,6.0,12.0
+Hu Kaijun,,,
+Rudolf Maag,1919.0,10.0,16.0
+Kwek Leng Beng,,,
+Christiane Schoeller,,,
+Ruan Xueping,,,
+Ruan Liping,1910.0,4.0,26.0
+Emanuele (Lino) Saputo & family,,,
+Joesley Batista,1972.0,12.0,8.0
+Wesley Batista,1972.0,12.0,8.0
+Lutz Mario Helmig & family,,,
+Jean (Gigi) Pritzker,,,
+Arturo Moreno,1946.0,8.0,14.0
+Tom Morris,,,
+Fernand Huts,,,
+Peter Kellogg,1942.0,9.0,5.0
+Evangelos Marinakis & family,1967.0,7.0,30.0
+Tim Sweeney,,,
+Morris Chang,1931.0,7.0,10.0
+Mark Leonard & family,,,
+Bruce Cheng,1963.0,1.0,15.0
+Cho Tak Wong,,,
+Fan Hongwei,,,
+Naguib Sawiris,1954.0,6.0,15.0
+Nirmal Minda,1927.0,2.0,11.0
+Dagmar Dolby & family,,,
+Robert Faith,,,
+Albert Avdolyan,,,
+Akira Mori & family,,,
+Jason Jiang,,,
+Hamad bin Jassim bin Jaber Al Thani,,,
+Vikas Oberoi,,,
+Michael Pieper,,,
+Barry Diller,1942.0,2.0,2.0
+Anthony Hall,,,
+Luo Liguo & family,,,
+Hamilton James & family,1951.0,2.0,3.0
+Stephen Feinberg,1960.0,3.0,29.0
+Mike Brown & family,,,
+Patrizio Bertelli,1946.0,4.0,6.0
+Miuccia Prada,1949.0,5.0,10.0
+Sam Hupert,,,
+Chairul Tanjung,1962.0,6.0,18.0
+Peter Cancro,,,
+Mong-Koo Chung,,,
+Eric Yuan & family,1970.0,2.0,20.0
+Thomas Straumann,1940.0,5.0,27.0
+Abdulla Al Futtaim & family,,,
+Isaac Perlmutter,1945.0,12.0,1.0
+Scott Crabill,,,
+Ryan Cohen,,,
+Ronald Lauder,1944.0,2.0,26.0
+Holden Spaht,,,
+Steven Klinsky,,,
+Zhang Hejun,,,
+Kim Beom-su,,,
+Jeffrey Koo Jr,1933.0,9.0,8.0
+Seth Boro,1986.0,5.0,28.0
+Eren Ozmen,,,
+Bom Kim,1978.0,10.0,7.0
+Vinod Rai Gupta,,,
+James Cargill II,,,
+Marianne Liebmann,,,
+Austen Cargill II,,,
+Lim Hariyanto Wijaya Sarwono,,,
+John Catsimatidis,1948.0,9.0,7.0
+Walther Moreira Salles Junior,,,
+Joao Moreira Salles,,,
+Thomas Kaeser,1950.0,7.0,1.0
+Shen Guojun,1961.0,7.0,18.0
+Gail Miller & family,,,
+Anthony von Mandl,,,
+Pyotr Aven,1955.0,3.0,16.0
+Huang Li,,,
+Helen Johnson-Leipold,,,
+Abhay Firodia,,,
+Hansjoerg Wyss,,,
+Andrew Karam,,,
+Michel Leclercq & family,,,
+Dan Snyder,,,
+Peter Spuhler,1959.0,1.0,9.0
+Chen Dongsheng,1898.0,12.0,16.0
+Koon Poh Keong,,,
+Phil Ruffin,,,
+Steven Meng Yang & family,,,
+Lee Boo-jin,1970.0,10.0,6.0
+George Bishop,,,
+Winifred J. Marquart,,,
+H. Fisk Johnson,1958.0,5.0,19.0
+S. Curtis Johnson,,,
+Fatih Ozmen,,,
+Alejandro Bulgheroni,1943.0,10.0,24.0
+Carl Icahn,1936.0,2.0,16.0
+David Rubenstein,1949.0,8.0,11.0
+Michael Xie,1958.0,8.0,29.0
+Tatyana Kim,1975.0,10.0,16.0
+William Conway Jr,,,
+Xia Zuoquan,1983.0,12.0,28.0
+Qiu Jianping & family,1990.0,2.0,20.0
+Klaus-Peter Schulenberg,,,
+Marc Ladreit de Lacharriere,1940.0,11.0,6.0
+Lee Thiam Wah,,,
+Hong Feng,,,
+Mahendra Choksi & family,,,
+Li Wanqiang,1985.0,10.0,12.0
+Rupert Johnson Jr,,,
+Erik Selin,,,
+Igor Kesaev,1966.0,10.0,30.0
+David Filo,1966.0,4.0,20.0
+Cai Kui,1868.0,1.0,11.0
+Abdulla bin Ahmad Al Ghurair & family,,,
+Pansy Ho,1962.0,8.0,26.0
+Maria Del Pino,,,
+Peter Gassner,1965.0,2.0,26.0
+Laurence Graff & family,1938.0,6.0,13.0
+Miguel Fluxa Rossello,,,
+Zarakh Iliev,1966.0,9.0,8.0
+God Nisanov,1972.0,4.0,24.0
+Saban Cemil Kazanci,,,
+Steven Udvar-Hazy,,,
+Carlo Fidani,,,
+Stefan Reimann-Andersen,1963.0,7.0,13.0
+Renate Reimann-Haas,1951.0,10.0,8.0
+Matthias Reimann-Andersen,,,
+Wolfgang Reimann,,,
+George Economou,,,
+Euisun Chung,1970.0,10.0,18.0
+Nadir Godrej,,,
+Shekhar Bajaj,,,
+Niraj Bajaj,,,
+Xiao Yongming & family,,,
+Beatriz Davila de Santo Domingo,,,
+Lynn Schusterman & family,1939.0,1.0,21.0
+Markus Blocher,1971.0,4.0,16.0
+Lin Tsung-Chi,,,
+Liu Wei,,,
+Anthony Pritzker,1961.0,1.0,7.0
+Ivan Tavrin,1976.0,11.0,1.0
+José E. Feliciano,,,
+Hiroshi Mikitani,1965.0,3.0,11.0
+Adi Godrej,1942.0,4.0,3.0
+Peter Preben Wilhelmsen,,,
+Bent Wilhelmsen,,,
+Arne Alexander Wilhelmsen,,,
+Richard Schulze,,,
+Dewi Kam,,,
+Hu Baifan,1972.0,11.0,6.0
+Behdad Eghbali,1976.0,5.0,6.0
+N.R. Narayana Murthy,1946.0,8.0,20.0
+Donald Sterling,1934.0,4.0,26.0
+Samvel Karapetyan,,,
+Travis Boersma,,,
+Shaul Shani,,,
+Byron Trott,1958.0,12.0,2.0
+Tsai Ming-kai,1950.0,4.0,6.0
+Oleg Deripaska,1968.0,1.0,2.0
+Alpana Dangi,,,
+John Middleton,,,
+Maggie Hardy,1965.0,12.0,7.0
+Kevin David Lehmann,,,
+Masahiro Noda,1972.0,8.0,18.0
+Andrej Babis,1954.0,9.0,2.0
+Hong Ra-hee,1945.0,7.0,15.0
+Yakir Gabay,,,
+Luo Yuhao,2001.0,2.0,13.0
+Stewart Rahr,,,
+Rajiv Jain,1957.0,3.0,17.0
+Carlos Hank Rhon & family,,,
+Brunello Cucinelli & family,,,
+Xue Min,,,
+Eleanor Butt Crook & family,,,
+Su Hua,,,
+Kailashchandra Nuwal,,,
+Wang Jianlin,1954.0,10.0,24.0
+Fan Daidi,,,
+Paul Foster,,,
+Cameron Winklevoss,1981.0,8.0,21.0
+Tyler Winklevoss,1981.0,8.0,21.0
+Rodger Riney & family,,,
+Lu Weiding,,,
+Cai Dongchen,2001.0,2.0,5.0
+Daniel Och,1961.0,1.0,27.0
+Huang Shan,,,
+Drayton McLane Jr,1936.0,7.0,22.0
+Phillip T. (Terry) Ragon,,,
+Pat Stryker,1956.0,4.0,6.0
+Egor Kulkov,1999.0,7.0,4.0
+Lee Seo-hyun,1973.0,9.0,20.0
+Penny Pritzker,1959.0,5.0,2.0
+Alan Trefler,1956.0,3.0,10.0
+Anna Katharina Viessmann,,,
+Roger Samuelsson,,,
+Fu Liquan,,,
+Florentino Perez,1947.0,3.0,8.0
+Thomas Siebel,1952.0,11.0,20.0
+Vivek Jain,1973.0,11.0,10.0
+Lai Meisong,,,
+Masahiro Miki,,,
+James Duff,,,
+Sanjit Biswas,,,
+Thomas Duff,,,
+Herbert Wertheim,1939.0,5.0,23.0
+Todd Christopher,1972.0,8.0,24.0
+Stewart Horejsi & family,,,
+Lin Chen-hai,1953.0,5.0,12.0
+Joseph Grendys,,,
+Neal Aronson,,,
+Mark Shoen,,,
+Paul-Heinz Wesjohann & family,,,
+Charles Zegar,,,
+Bob Parsons,1950.0,11.0,27.0
+C. Dean Metropoulos,,,
+Johnelle Hunt,1932.0,1.0,4.0
+John Gandel,,,
+Mitchell Rales,,,
+John Paulson,1955.0,12.0,14.0
+Li Chunan,,,
+Nick Caporella,,,
+Takahisa Takahara,1961.0,7.0,12.0
+Meg Whitman,1956.0,8.0,4.0
+Ugur Sahin,1965.0,9.0,19.0
+John Bicket,1952.0,2.0,7.0
+Jim Davis,,,
+Hubert Burda,1940.0,2.0,9.0
+Lin Shu-hong,,,
+Kentaro Ogawa,,,
+Sunny Varkey,1957.0,4.0,9.0
+Martin Lau,,,
+Yuan Fugen & family,,,
+Peter Grogg,,,
+Falguni Nayar,1963.0,2.0,19.0
+Ivar Tollefsen,1961.0,6.0,23.0
+Fang Wei,,,
+Christian Haub,,,
+Harsh Mariwala,,,
+Marc Lore,1971.0,5.0,16.0
+Jeffrey Cheah,,,
+Antti Herlin,1956.0,11.0,14.0
+Ravi Pillai,1953.0,9.0,2.0
+Julia Thiele-Schuerhoff & family,,,
+Du Jiangtao & family,,,
+Huang Jiangji,,,
+Amos Hostetter Jr,1937.0,1.0,12.0
+Ye Chenghai & family,,,
+Maurizio Billi,1942.0,1.0,5.0
+Anand Mahindra,1955.0,5.0,1.0
+Mochtar Riady & family,1929.0,5.0,12.0
+Rajan Raheja & family,,,
+Samuel Tak Lee,,,
+J.B. Pritzker,1965.0,1.0,19.0
+Alan Howard,,,
+Theodore Leonsis,1957.0,1.0,8.0
+Lorinc Meszaros,1966.0,2.0,24.0
+Norman Braman,1932.0,8.0,23.0
+Steve Wynn,1942.0,1.0,27.0
+William Stone,,,
+Shi Yuzhu,,,
+Anil Agarwal & family,,,
+Chan Laiwa & family,,,
+Harsh Goenka,1957.0,12.0,10.0
+Walter Frey,1943.0,7.0,30.0
+G. M. Rao,,,
+Michael Jordan,1963.0,2.0,17.0
+Baba Kalyani,1949.0,1.0,7.0
+Daniel Loeb,1961.0,12.0,18.0
+Eduardo Eurnekian,1932.0,12.0,4.0
+Nithin Kamath,1986.0,9.0,5.0
+Ray Davis,,,
+Ira Rennert,1934.0,5.0,31.0
+Brian Venturo,,,
+Sid Bass,1942.0,4.0,9.0
+Scott Kapnick,,,
+Eduardo Vivas,1974.0,5.0,21.0
+Lawrence Stroll,1959.0,7.0,11.0
+Giuseppe Crippa & family,1573.0,7.0,0.0
+B. Partha Saradhi Reddy,,,
+Scott Shleifer,,,
+Cameron Adams,2000.0,3.0,17.0
+Leena Tewari,1957.0,3.0,9.0
+Martin Ebner,1945.0,8.0,12.0
+Maja Oeri,,,
+Edward DeBartolo Jr,1909.0,5.0,17.0
+Wang Yanqing & family,1472.0,10.0,26.0
+Xiang Guangda,,,
+Arun Bharat Ram,,,
+Koos Bekker,1952.0,12.0,14.0
+Renzo Rosso & family,,,
+Sanjiv Goenka,1961.0,1.0,29.0
+Lorenzo Fertitta,1969.0,1.0,3.0
+Tung Chee Chen,1942.0,12.0,15.0
+Walter P.J. Droege,,,
+Sunil Vachani,1963.0,7.0,11.0
+Liu Jincheng & family,1940.0,4.0,13.0
+Kagemasa Kozuki,,,
+Abel Avellan,,,
+Frank Fertitta III,1962.0,2.0,24.0
+Danny Harris,1965.0,9.0,7.0
+Thomas James,,,
+Zahan Mistry,1968.0,7.0,4.0
+Neil Shen,1967.0,12.0,16.0
+Thomas Tull,1970.0,6.0,9.0
+Nguyen Thi Phuong Thao,1970.0,6.0,7.0
+Jack Cockwell,1941.0,1.0,12.0
+Hans Peter Wild,1941.0,6.0,16.0
+Firoz Mistry,1968.0,7.0,4.0
+Maggie Gu,1934.0,12.0,28.0
+Ren Xiaoqing,,,
+Molly Miao,,,
+Zhang Xinghai & family,,,
+Ben Lamm,1981.0,12.0,4.0
+Bulat Utemuratov,1957.0,11.0,13.0
+Jean Coutu & family,,,
+Marco DeGeorge,,,
+George Prokopiou & family,1946.0,6.0,8.0
+Shiv Kishan Agrawal,,,
+J. Hyatt Brown,1937.0,7.0,12.0
+Giuliana Benetton,1937.0,7.0,8.0
+Luciano Benetton,1935.0,5.0,13.0
+Jeff Tangney,1948.0,10.0,28.0
+Todd Wanek,1964.0,3.0,16.0
+Kwek Leng Kee,,,
+Rodney Sacks & family,,,
+Lyu Yixiong,,,
+T.S. Kalyanaraman,1947.0,4.0,23.0
+Jim Breyer,,,
+Ron Burkle,1952.0,11.0,12.0
+He Xiaopeng,1977.0,11.0,3.0
+David Blitzer,1969.0,9.0,7.0
+Sukanto Tanoto,1949.0,12.0,25.0
+Somurai Jaruphnit,,,
+Marc Fielmann,1989.0,7.0,24.0
+Wu Xiangdong,,,
+John Krystynak,,,
+Leon G. Cooperman,1943.0,4.0,25.0
+Palmer Luckey,1992.0,9.0,19.0
+Yao Liangsong,,,
+Mohed Altrad,,,
+Hans Jakob Limbach,,,
+Dan Olsson,,,
+Theodore Rachmat,,,
+John Fisher,,,
+Madhukar Parekh,,,
+August Troendle,,,
+Miao Hangen,1981.0,2.0,5.0
+Giorgio Perfetti,,,
+Peter Hargreaves,1946.0,10.0,5.0
+Xie Liangzhi & family,,,
+William Wrigley Jr,1861.0,9.0,30.0
+Hilton Schlosberg & family,,,
+Travis Kalanick,1976.0,8.0,6.0
+Danielle Bellon & family,,,
+Isabella Seràgnoli,,,
+Haryanto Tjiptodihardjo,,,
+Dylan Field,,,
+Otto Philipp Braun,,,
+Ralph Dommermuth,,,
+Cheng Yixiao,1998.0,7.0,15.0
+Zhou Jianping,1957.0,1.0,13.0
+Prathap Reddy,1933.0,2.0,5.0
+Richard Peery,,,
+Prasert Prasarttong-Osoth,1933.0,3.0,22.0
+P.N.C. Menon,1948.0,11.0,17.0
+Susan Alfond,,,
+Ted Alfond,,,
+Bill Alfond,,,
+Katharina Otto-Bernstein,,,
+Robert Johnson & family,1911.0,5.0,8.0
+John Caudwell,1952.0,10.0,7.0
+Alberto Siccardi & family,,,
+J. Tomilson Hill,,,
+Michael Latifi,,,
+Jose Joao Abdalla Filho,,,
+Martua Sitorus,1960.0,2.0,18.0
+Juan Abello,,,
+Jian Yao,,,
+Catheline Perier D'Ieteren,,,
+Wang Junlin & family,,,
+Patrick Lee,,,
+E. Joe Shoen,,,
+Jose Roberto Marinho,1955.0,12.0,26.0
+Joao Roberto Marinho,1953.0,9.0,16.0
+Jiang Weiping & family,,,
+Ramon Ang,1954.0,1.0,14.0
+Warren Stephens,1957.0,2.0,18.0
+Frank Slootman,,,
+Alceu Elias Feldmann & family,,,
+Clive Palmer,1954.0,3.0,26.0
+Jack Gance,,,
+Zhang Tao,,,
+Fernando Chico Pardo,,,
+Reinold Geiger,1947.0,7.0,10.0
+Park Soon-jae,1954.0,12.0,22.0
+Brian Acton,1972.0,2.0,17.0
+Fred Ehrsam,1988.0,5.0,10.0
+Senapathy Gopalakrishnan,1955.0,4.0,5.0
+Surender Saluja,,,
+Ankur Jain,,,
+Ye Qiongjiu,,,
+Barry Zekelman,,,
+Lee Yeow Chor,,,
+Selina Stihl,1707.0,8.0,24.0
+Howard Lutnick,1961.0,7.0,14.0
+Waleed Mohammad Al Zaabi,,,
+Lucio Tan,1934.0,7.0,17.0
+N. Murray Edwards,1959.0,12.0,10.0
+Patrice Motsepe,1962.0,1.0,28.0
+Alfred Gantner,,,
+Marcel Erni,1886.0,11.0,30.0
+Urs Wietlisbach,1961.0,8.0,25.0
+Jonathan Nelson,,,
+Pablo Legorreta,,,
+Remo Ruffini,1942.0,5.0,17.0
+Jian Jun,,,
+Alexandre Van Damme,,,
+Andrew Bialecki,,,
+Harish Ahuja,,,
+Kuok Khoon Hong,,,
+James Packer,1967.0,9.0,8.0
+Vincent McMahon,,,
+Ronald McAulay,,,
+Sol Daurella,,,
+Otto Happel,1948.0,2.0,9.0
+Maren Otto,,,
+Andrei Kozitsyn,1960.0,6.0,9.0
+Howard Schultz,1953.0,7.0,19.0
+Udo Schütz,,,
+Lin Jianhua,,,
+Mohamed Mansour,,,
+Li Zhenguo & family,1968.0,1.0,5.0
+Segolene Gallienne,,,
+Wang Junmin,,,
+Victor Pinchuk,1960.0,12.0,14.0
+Kiran Mazumdar-Shaw,1953.0,3.0,23.0
+Gustav Magnar Witzoe,1993.0,2.0,8.0
+Chan Tan Ching-fen,,,
+Ramesh Juneja,1955.0,7.0,28.0
+Jack Cowin,1942.0,7.0,13.0
+Jeff T. Green,1986.0,8.0,28.0
+Mahima Datla,,,
+Hu Rongda & family,1945.0,11.0,14.0
+Joe Lonsdale,,,
+Zhao Yan,,,
+Wang Changtian,,,
+David Wertheim,,,
+Alejandro Santo Domingo,1977.0,2.0,13.0
+Ye Guofu,,,
+Tim Draper,1958.0,6.0,11.0
+Glen Taylor,1941.0,4.0,20.0
+Sanjeev Bikhchandani,,,
+Gilles Martin,,,
+Jay Paul,,,
+Sophie Luise Fielmann,,,
+Yeung Kin-man,,,
+Shigenobu Nagamori,1944.0,8.0,28.0
+Haim Saban,1944.0,10.0,15.0
+Rajeev Juneja,,,
+Lawrence Golub,,,
+Wei Huang,1904.0,2.0,28.0
+Sergei Galitsky,1967.0,8.0,14.0
+Angelo Koo,1997.0,12.0,15.0
+Olivier Pomel,1971.0,7.0,21.0
+Anne Beaufour,,,
+Henri Beaufour,,,
+George Argyros & family,1937.0,2.0,4.0
+Caroline Hagen Kjos,,,
+Najib Mikati,1955.0,11.0,24.0
+Taha Mikati,,,
+Maritsa Lazari & family,,,
+Gerry Harvey,1939.0,9.0,18.0
+Alexis Lê-Quôc,,,
+Fabien Pinckaers,,,
+Spiro Latsis & family,1946.0,1.0,1.0
+Friede Springer,1942.0,8.0,15.0
+Albert Chao & family,,,
+Dorothy Chao Jenkins & family,,,
+James Chao & family,,,
+Alexandr Wang,,,
+Jeff Rothschild,,,
+Ajay Piramal,1955.0,8.0,3.0
+Joy Alukkas,1956.0,10.0,29.0
+Erwin Franz Mueller,,,
+Radha Vembu,,,
+Leng Youbin,,,
+John Dorrance III,,,
+Wu Guangming,,,
+Yuji Otsuka,,,
+Chen Fashu,,,
+Ben Navarro,,,
+Andrei Bokarev,1953.0,12.0,11.0
+William Chisholm,,,
+Mikhail Shelkov,,,
+Maria-Elisabeth Schaeffler-Thumann,,,
+Sam Gance,1908.0,5.0,24.0
+Roberto Irineu Marinho,1947.0,10.0,13.0
+Jacques D'Amours,,,
+Mário Araripe,1962.0,11.0,9.0
+Kavitark Ram Shriram,,,
+Lam Wai-ying,,,
+Oprah Winfrey,1954.0,1.0,29.0
+Hong Jie,,,
+Ke Zunhong & family,,,
+Arvind Poddar,,,
+Xue Hua,,,
+Stefan Wirtgen,,,
+Jurgen Wirtgen,,,
+Frank VanderSloot,1948.0,8.0,14.0
+Theo Roussis,1975.0,6.0,4.0
+Manohar Lal Agarwal,,,
+Denis O'Brien,1958.0,4.0,19.0
+Frank Blase,1858.0,7.0,9.0
+Augusto Perfetti,,,
+Kuldip Singh Dhingra,,,
+Gurbachan Singh Dhingra,,,
+Vladimir Litvinenko & family,1955.0,8.0,14.0
+Stephen Lansdown,1952.0,8.0,30.0
+Zhang Jian,,,
+Liu Weiping,,,
+Yu Zhuyun,1925.0,7.0,2.0
+Yang Huiyan & family,,,
+Harindarpal Banga,,,
+Yadu Hari Dalmia & family,,,
+Charles Edelstenne & family,1938.0,1.0,9.0
+Jerry Yang,1968.0,11.0,6.0
+Qiu Wensheng,2002.0,10.0,8.0
+Benjamin Otto,1753.0,3.0,26.0
+Arvind Tiku,1930.0,1.0,17.0
+Antonio Del Valle Ruiz & family,,,
+Sean Parker,1979.0,12.0,3.0
+Robert Friedland,1950.0,8.0,18.0
+Issad Rebrab & family,1944.0,5.0,27.0
+Fabrizio Di Amato,,,
+Salil Singhal,,,
+John Coates,,,
+Scott Nuttall,,,
+Aneel Bhusri,1966.0,2.0,14.0
+Weili Dai,,,
+Djoko Susanto,1950.0,2.0,9.0
+Martin Bouygues,1952.0,5.0,3.0
+Sergei Popov,,,
+Cheng Xue,,,
+Richard Chandler,,,
+Michael S. Smith,,,
+Jeffrey Talpins,,,
+Choo Chong Ngen,,,
+Guo Guangchang,1967.0,2.0,16.0
+Jim Thompson & family,,,
+Nandan Nilekani,,,
+Abhay Soi,1979.0,6.0,7.0
+Kommer Damen,,,
+Aristotelis Mistakidis,1962.0,4.0,24.0
+Zhang Lei,,,
+Bent Jensen & Family,,,
+Stephen Butt & family,1885.0,8.0,11.0
+Howard Butt III & family,,,
+Eva Maria Bucher-Haefner,1910.0,9.0,13.0
+Li Hongxin & family,1998.0,6.0,26.0
+Lin Ming-hsiung,,,
+Olivier Bouygues,1950.0,9.0,14.0
+Dmitry Pumpyansky,1964.0,3.0,22.0
+Vadim Moshkovich,,,
+Safra Catz,,,
+Yusuf Hamied,1936.0,7.0,25.0
+Clifford Asness,1966.0,10.0,17.0
+Gerald Frere,1951.0,5.0,17.0
+Wang Wenjing,,,
+Ji Qi,,,
+Tony Xu,,,
+Wolfgang Leitner,,,
+Nicolas Berggruen,1961.0,8.0,10.0
+Luca Garavoglia,1969.0,2.0,27.0
+Qiu Guanghe & family,,,
+John Arnold,,,
+Bennett Dorrance,,,
+Sebastian Glaser,,,
+Erman Ilicak,,,
+Gudrun Heine,,,
+Sybill Storz,,,
+Xie Weitong,,,
+Joel Greenberg,,,
+Acharya Balkrishna,1972.0,8.0,4.0
+Georgi Domuschiev,,,
+Kiril Domuschiev,1969.0,4.0,18.0
+Robert Clark,,,
+Ugo Gussalli Beretta & family,,,
+Matthew Roszak,,,
+Yuri Kovalchuk & family,1951.0,7.0,25.0
+Herb Chambers,1941.0,11.0,24.0
+Yoshiko Mori,1948.0,9.0,4.0
+Bill Austin,,,
+Peter Unger,1942.0,4.0,25.0
+Karthik Sarma,,,
+Igor Altushkin,1965.0,1.0,27.0
+John Paul DeJoria,1944.0,4.0,13.0
+Zhou Bajin,,,
+G. Rajendran,1947.0,7.0,7.0
+Alberto Palatchi,,,
+Tung Chee Hwa,1937.0,7.0,7.0
+Arnout Schuijff,,,
+Daniel Pritzker,,,
+Yoo Jung-hyun,,,
+Hayes Barnard,,,
+Emad Al Muhaidib,,,
+Glenn Dubin,1957.0,4.0,13.0
+Song Zuowen,,,
+Mao Geping & family,,,
+Sergei Gordeev,1972.0,11.0,22.0
+Solina Chau,,,
+Jorge Mas,1963.0,2.0,28.0
+Zhu Xingming,,,
+Anand Deshpande,1970.0,1.0,30.0
+Eduardo Hochschild,,,
+Lindsay Fox,,,
+Jed McCaleb,1975.0,6.0,8.0
+Doug Ostrover,,,
+Wu Kai,,,
+Mortimer Zuckerman,1937.0,6.0,4.0
+Jin Baofang,,,
+Farhad Moshiri,1955.0,5.0,18.0
+Sylvan Adams,1958.0,11.0,1.0
+David Booth,,,
+Ipek Kirac,1984.0,11.0,29.0
+Feng Hailiang,1966.0,3.0,9.0
+Georg von Opel,1966.0,5.0,4.0
+Chen Hua & family,1982.0,10.0,20.0
+Philip Niarchos,,,
+Gustavo Denegri & family,,,
+Jamie Dimon,1956.0,3.0,13.0
+Ed Craven,,,
+Richard Branson,1950.0,7.0,18.0
+Carsten Koerl,,,
+Brannin McBee,,,
+Martin Viessmann,,,
+Mitchell Goldhar,,,
+Miriam Baumann-Blocher,1940.0,10.0,11.0
+Parker Conrad,,,
+Edward Bass,1726.0,4.0,17.0
+William Boyd & family,,,
+Ranjan Pai,,,
+Anu Aga,1942.0,8.0,3.0
+Willis Johnson,,,
+Rufino Vigil Gonzalez,,,
+Barry Sternlicht,1960.0,11.0,27.0
+Jitendra Virwani,,,
+Balkrishan Goenka,,,
+Zhao Fenggang,1985.0,7.0,24.0
+Robert Sands,,,
+Joseph Bae,,,
+John Elkann,1976.0,4.0,1.0
+Ted Turner,1938.0,11.0,19.0
+Stephen Deckoff,1937.0,8.0,3.0
+Larry Tanenbaum,1945.0,7.0,8.0
+Brett Hildebrand,1981.0,3.0,3.0
+Kristo Käärmann,,,
+Fernando De Leon,,,
+Ramesh Kunhikannan,,,
+Bijan Tehrani,,,
+Pier Silvio Berlusconi,1969.0,4.0,28.0
+Marina Berlusconi,1966.0,8.0,10.0
+Anatoly Sedykh,,,
+P.V. Ramprasad Reddy,,,
+Christian Latouche & family,,,
+Tran Dinh Long,1961.0,2.0,22.0
+Bernard Saul II & family,,,
+Yang Weidong & family,,,
+Wu Guanjiang & family,,,
+Felix Baker,,,
+Julian Baker,,,
+Serge Godin,1928.0,4.0,2.0
+Mehmet Sinan & Family Tara,,,
+Rafique Malik,,,
+Semahat Sevim Arsel,,,
+Wilhelm Beier & family,,,
+William Foley II,,,
+John Tyson & family,,,
+Akio Nitori,,,
+Chen Jiancheng,1975.0,8.0,23.0
+T.Y. Tsai,,,
+Geoffrey Kwok,,,
+Jonathan Kwok,,,
+Kwon Hyuk-bin,,,
+Daniel Mate,,,
+Sulaiman Al Muhaidib,,,
+Essam Al Muhaidib,,,
+Vivek Chand Burman,,,
+Ali Ghodsi,,,
+Liora Ofer,1953.0,12.0,22.0
+Chen Kaixuan,,,
+V. Prem Watsa,1927.0,10.0,14.0
+Cao Longxiang & family,,,
+Bidzina Ivanishvili & family,1956.0,2.0,18.0
+Paul Gauselmann & family,1934.0,8.0,26.0
+John Pritzker,,,
+Zygmunt Solorz,1956.0,8.0,4.0
+Kei Hoi Pang,,,
+Jeff Sutton,,,
+Stein Erik Hagen,1956.0,7.0,22.0
+Peter Sondakh,1937.0,12.0,2.0
+Lottie Tham & family,1949.0,4.0,18.0
+Pavel Baudis,1960.0,5.0,15.0
+Deng Wen,1968.0,12.0,5.0
+Marcelo Claure,1970.0,12.0,9.0
+Anurang Jain,,,
+Du Jinhao,1955.0,7.0,31.0
+Zhou Hongyi,1970.0,10.0,4.0
+Michael Hintze,1953.0,7.0,27.0
+Lee Bass,,,
+Anthony Langley,,,
+Adam Kwok,1982.0,2.0,1.0
+Ryan Horton,,,
+Timm Oberwelland,,,
+Richard LeFrak & family,,,
+Devi Shetty,1953.0,5.0,8.0
+Reagan Horton,,,
+Zhang Wanzhen,1962.0,7.0,1.0
+Ryan Smith,,,
+Jorge Perez,,,
+Pierre van der Mersch & family,,,
+Christian Birkenstock,,,
+Jean-Pierre Cayard & family,,,
+Hans-Werner Hector,,,
+Ferit Faik Sahenk,,,
+Zhang Fan,,,
+Ho Hung Anh,,,
+Lee Yeow Seng,,,
+Qi Jinxing,,,
+Wayne Rothbaum,,,
+Henry Swieca,,,
+Bertil Hult,1941.0,2.0,10.0
+Chao Teng-hsiung,,,
+Gerald Ford,1913.0,7.0,14.0
+Dong Jinggui,1963.0,11.0,18.0
+Lam Kong,,,
+Kalanithi Maran,1964.0,7.0,24.0
+Gu Yuhua & family,1942.0,6.0,20.0
+Edwin Leong,,,
+Daniel Rocher,,,
+Bris Rocher,,,
+Lirio Parisotto,,,
+Henry Laufer,1945.0,8.0,13.0
+Bernard Fraisse & family,,,
+Alexander Ramlie,1815.0,9.0,8.0
+Alexander Frolov,1982.0,6.0,19.0
+Daniel Sundheim,,,
+Shlomo Eliahu,1936.0,1.0,18.0
+William Young,,,
+Dwight Schar,,,
+Andreas Pohl,,,
+Peter Beck,,,
+Prem Kumar Arora,,,
+Liang Xinjun,,,
+Alessandra Garavoglia,,,
+Sergey Dmitriev,,,
+Masateru Uno & family,,,
+M.Satyanarayana Reddy,,,
+Sathien Sathientham,,,
+Kathy Britton,1950.0,6.0,8.0
+Michiel Le Roux,1949.0,5.0,20.0
+Li Jianquan & family,,,
+Roy Carroll II,,,
+Jay-Z,1969.0,12.0,4.0
+Bang Si-hyuk,1972.0,8.0,9.0
+David Golub,,,
+Rishad Naoroji,1951.0,8.0,30.0
+Florian Rehm,1894.0,1.0,25.0
+Francois Feuillet & family,,,
+Barbara Banke & family,,,
+Mark Davis,,,
+Li Gaiteng,,,
+Panagiotis Tsakos & family,,,
+Wang Yun'an,1930.0,4.0,29.0
+Zhu Gongshan & family,,,
+Richard Sands,,,
+Fernando Roig,1947.0,6.0,25.0
+Atul Ruia,,,
+Roman Trotsenko,1970.0,9.0,12.0
+Bennett Rosenthal,,,
+Qin Hua,,,
+Adebayo Ogunlesi,1953.0,12.0,20.0
+Jayme Garfinkel & family,1946.0,11.0,30.0
+Alexander Lutsenko & family,,,
+Hussain Binghatti Aljbori,,,
+Jennifer Pritzker,1950.0,8.0,13.0
+Nikhil Kamath,1986.0,9.0,5.0
+Michael Polsky,,,
+Joseph Edelman,,,
+Anna Angelicoussis & family,,,
+Michael Heine,,,
+Oei Hong Leong,,,
+Liang Feng,,,
+Domenico Dolce,1958.0,8.0,13.0
+Stefano Gabbana,1962.0,11.0,14.0
+Long Wan,,,
+Yvonne Bauer,,,
+Brett Blundy,,,
+Hal Jackman,1932.0,6.0,10.0
+Roger Wang,,,
+Michel Litvak,,,
+Kenneth Feld & family,1948.0,10.0,31.0
+Reid Hoffman,1967.0,8.0,5.0
+Yasuhiro Fukushima,,,
+Zhao Lixin,1968.0,8.0,29.0
+Tim Cook,1960.0,11.0,1.0
+Julio Ponce Lerou,,,
+Mustafa Rahmi Koc,1930.0,10.0,9.0
+Max Levchin,1975.0,7.0,11.0
+Ion Stoica,,,
+Matei Zaharia,,,
+Evan Spiegel,1990.0,6.0,4.0
+Charles Bronfman,1931.0,6.0,27.0
+Ajay Parekh,,,
+Narendrakumar Parekh,,,
+Stephen Mandel Jr,1956.0,3.0,12.0
+Douglas Hsu,1861.0,6.0,19.0
+Sheryl Sandberg,1969.0,8.0,28.0
+Filiz Sahenk,,,
+Kamal Ghaffarian,,,
+Dong Wei,,,
+Hamdi Ulukaya,1972.0,10.0,26.0
+Kim Jun-ki,1944.0,12.0,4.0
+Rolf Gerling,1954.0,12.0,15.0
+Stefan Olsson,1987.0,4.0,24.0
+Beda Diethelm,,,
+Ren Yuanlin,1963.0,6.0,1.0
+John Stanton,,,
+Shmuel Harlap,,,
+Chu Lam Yiu,,,
+David Kaplan,,,
+Reinfried Pohl Jr,,,
+K. Dinesh,,,
+Zhuo Jun,,,
+Robert G. Miller,,,
+Kevin Systrom,1983.0,12.0,30.0
+Pierre Karl Péladeau,1961.0,10.0,16.0
+Or Wai Sheun,,,
+Alexander Svetakov,,,
+Zheng Jianjiang & family,,,
+Sun Shoukuan,,,
+Jimmy John Liautaud,1964.0,1.0,12.0
+Chang Kuo-Hua,,,
+Michelle Zatlyn,,,
+Mika Anttonen,,,
+Huang Xiaofen & family,1977.0,11.0,13.0
+Mi Enhua,,,
+Duke Reyes,1742.0,8.0,27.0
+Huang Yi,,,
+Wu Yiling,,,
+Shlomo Kramer,,,
+Rick Smith,,,
+Arkady Volozh,1964.0,2.0,11.0
+Bruce Karsh,1955.0,10.0,10.0
+Barbara Tyson,1964.0,10.0,1.0
+Jim Crane,1954.0,1.0,17.0
+Sylvia Stroeher,,,
+Chen Qiongxiang,1976.0,8.0,31.0
+Remi Dassault,,,
+Helena Dassault,,,
+Tang Yiu,,,
+Henry Davis,,,
+Masaaki Arai,1930.0,9.0,1.0
+Wesley Edens,1961.0,10.0,30.0
+Wee Ee Cheong,,,
+Sergei Kolesnikov,,,
+Igor Rybakov,1972.0,5.0,16.0
+Sekar Vembu,,,
+Wang Junshi & family,1999.0,9.0,21.0
+Syed Mokhtar AlBukhary,1951.0,12.0,12.0
+Angela Leong,1961.0,3.0,23.0
+Henry Sy Jr,,,
+Sandeep Engineer,,,
+Steve Case,1958.0,8.0,21.0
+Bernard Ecclestone & family,1930.0,10.0,28.0
+Natacha Nikolajevic,,,
+Jupally Rameshwar Rao,1955.0,9.0,16.0
+Chen Tei-fu,,,
+David Walentas,,,
+Michael Arougheti,,,
+Joe Lacob,1956.0,1.0,10.0
+Vasily Shikin,,,
+Ren Jinsheng & family,,,
+Manfredi Lefebvre d'Ovidio & family,1953.0,4.0,30.0
+Eugene Murtagh,1942.0,6.0,23.0
+Sara George Muthoot,,,
+George Jacob Muthoot,,,
+George Thomas Muthoot,,,
+George Alexander Muthoot,1955.0,9.0,16.0
+Maria Franca Fissolo,,,
+Rita Tong Liu,,,
+Annalisa Doris,,,
+Massimo Doris,1940.0,7.0,3.0
+Jay Hennick,1957.0,1.0,20.0
+Sergei Sudarikov,1974.0,6.0,18.0
+David Nahmad,,,
+Esther Grether,,,
+Daniel Lubetzky,,,
+Lina Tombolato,,,
+Bill Malhotra,,,
+Alexandre Grendene Bartelle,1950.0,1.0,23.0
+George Joseph,,,
+Alberto Bombassei,,,
+Richard Hayne,1947.0,5.0,26.0
+Dermot Desmond,1950.0,8.0,14.0
+David Zalik,2001.0,9.0,27.0
+Carlos March Delgado,,,
+Peter Leibinger,,,
+Nicola Leibinger-Kammueller,1959.0,12.0,15.0
+Regine Leibinger,,,
+Abdullah bin Sulaiman Al Rajhi,,,
+Ion Tiriac,1939.0,5.0,9.0
+Kenneth Hao,1936.0,12.0,6.0
+Alexandra Daitch,1864.0,9.0,29.0
+Lucy Stitzer,,,
+Sarah MacMillan,,,
+Michael Ying,,,
+Abdullah Amer Al Nahdi,,,
+Heikki Kyostila,1946.0,1.0,19.0
+Paul Saville,,,
+Harald Tschira,,,
+Udo Tschira,,,
+Gerda Tschira,,,
+Jerry Reinsdorf,1936.0,2.0,25.0
+Surjit Kumar Gupta,,,
+Anita Zucker,,,
+Adam Neumann,1979.0,4.0,25.0
+Anthony Wood,,,
+Edward Lampert,1962.0,7.0,19.0
+Christopher Rokos,,,
+Alexey Repik,1986.0,11.0,14.0
+David Adelman,,,
+Basudeo Singh,,,
+Antonio Gracias,,,
+David Fong,1966.0,9.0,8.0
+Greg Mondre,1975.0,4.0,22.0
+Egon Durban,,,
+Stefan Soloviev,1975.0,5.0,21.0
+Zadik Bino & family,,,
+John Fish,,,
+Daniel Nadler,,,
+Jeremy Allaire,1971.0,5.0,13.0
+Gan Zhongru,,,
+David Teoh,,,
+Steven Sarowitz,,,
+Katarina Martinson,,,
+Abdullah Al Othaim,,,
+Stephan Schnabel,1912.0,2.0,2.0
+Li Zhongchu,1964.0,2.0,1.0
+Leonard Abess,,,
+Wu Yingming,,,
+Alexander Skorobogatko,,,
+Tom Ford,1961.0,8.0,27.0
+Marianna Latsis & family,,,
+Airat Shaimiev,,,
+Constantinos Martinos & family,,,
+Chi Yufeng,1971.0,9.0,15.0
+Ami Luttwak,,,
+Yinon Costica,,,
+Roy Reznik,,,
+Assaf Rappaport,1983.0,8.0,28.0
+Sam Goi,1949.0,4.0,26.0
+Toshio Motoya,,,
+Jonathan Tisch,1953.0,12.0,7.0
+Irving Grousbeck & family,1934.0,7.0,20.0
+Dmitry Mazepin,1968.0,4.0,18.0
+Suhail Bahwan,,,
+Wong Luen Hei,,,
+Zhang Shengwei,,,
+Jerry Speyer & family,1940.0,6.0,23.0
+Raamdeo Agrawal,,,
+Jack Cogen,1914.0,10.0,26.0
+Ales Zavoral,,,
+D. Leopoldo Del Pino,,,
+Phongthep Chiaravanont,,,
+Fiona Geminder,,,
+Noam Gottesman,,,
+Juan March Delgado,,,
+Shi Yonghong & family,,,
+An Kang,,,
+Pawel Marchewka,,,
+James Scapa,1940.0,3.0,26.0
+Inder Jaisinghani,,,
+Xu Jinfu & family,1974.0,4.0,16.0
+Juan Domingo Beckmann Legorreta & family,,,
+Liang Rubo,,,
+Howard Marks,1945.0,8.0,13.0
+James Dinan,,,
+Ioannis Papalekas,,,
+Susan Ocampo & family,1958.0,11.0,18.0
+Alicia Koplowitz,1954.0,9.0,12.0
+Stephen Rubin & family,,,
+Manas Chiaravanond,,,
+Yuan Jiandong & family,,,
+Enrique Coppel Luken,,,
+Jane Lauder,1973.0,7.0,1.0
+Xu Yingzhuo,1989.0,1.0,7.0
+Charles Liang,,,
+Ibrahim Erdemoglu,,,
+Prathip Chiravanond,,,
+Dragos Paval,1984.0,6.0,23.0
+Somsri Lamsam,,,
+David Peñaloza Alanís,,,
+Zhang Jingzhang & family,,,
+Mohammed Dewji,1975.0,5.0,8.0
+Leonard Schleifer,,,
+Igor Rotenberg,1973.0,5.0,9.0
+Thomas Kwok,1951.0,10.0,6.0
+Ruan Hongliang,,,
+Katsumi Tada,1965.0,7.0,12.0
+Larry Robbins,1969.0,10.0,22.0
+Wang Zhenhua,,,
+Chen Jinxia,1964.0,2.0,4.0
+Jaroslav Hascak & family,1883.0,4.0,30.0
+Louise Lindh,,,
+Drew Houston,1983.0,3.0,4.0
+Kabir Mulchandani,1972.0,10.0,6.0
+Alec Gores,,,
+Huijiao Yu,,,
+Marek Dospiva,,,
+Richard Saghian,,,
+Luciano Hang,1962.0,10.0,11.0
+Karl Scheufele III & family,1958.0,2.0,5.0
+Solomon Lew,1945.0,3.0,22.0
+Cai Huabo,1987.0,7.0,29.0
+Feridun Gecgel,,,
+Boris Zingarevich,1959.0,7.0,8.0
+Zhao Tao,1977.0,1.0,28.0
+Xue Xiangdong & family,,,
+Julio Bozano,,,
+Ilkka Herlin,1959.0,1.0,25.0
+Marcel Herrmann Telles & family,1950.0,2.0,23.0
+Zhang Li,,,
+Ramesh Jaisinghani,,,
+Zhang Bangxin,,,
+Ajay Jaisinghani,,,
+Vikram Punia,,,
+Katharina Andresen,1995.0,5.0,21.0
+Simon Nixon,1967.0,8.0,7.0
+Mrudula Parekh,,,
+Lai Shixian,1924.0,9.0,4.0
+Yu Kai,1986.0,5.0,9.0
+Thomas Wu,1950.0,4.0,11.0
+Alice Schwartz,,,
+Vasily Anisimov,,,
+Liu Xiaodong,,,
+Lin Xiucheng & family,,,
+Zhang Gongyun,1886.0,12.0,9.0
+Alexander Ponomarenko,1964.0,10.0,27.0
+Zhang Ning,1975.0,5.0,19.0
+Gabriele Gebauer,1958.0,4.0,10.0
+Stephan Schmidheiny,1947.0,10.0,29.0
+P.V. Krishna Reddy,,,
+Anand Burman,,,
+John Hancock,1737.0,1.0,23.0
+Wei Ying-Chiao,,,
+Wei Ing-Chou,,,
+Wei Yin-Chun,,,
+Wei Yin-Heng,,,
+Koh Wee Meng,,,
+Clayton Zekelman,,,
+Mario Germano Giuliani,,,
+Zakhar Smushkin,,,
+Fritz Draexlmaier,,,
+Craig McCaw,1949.0,8.0,11.0
+Liang Guangwei,,,
+Anthony Casalena,,,
+T. Denny Sanford,1935.0,12.0,23.0
+Ginia Rinehart,1954.0,2.0,9.0
+Ali Metin Kazanci,,,
+Conni Jonsson,,,
+Sergei Studennikov & family,1967.0,3.0,24.0
+Park Hyeon-joo,1958.0,10.0,17.0
+Thaksin Shinawatra,1949.0,7.0,26.0
+Kwek Leng Keow,,,
+Kwek Leng Peck,,,
+Larry Connor & family,1950.0,1.0,7.0
+Marc Lipschultz,,,
+Bianca Rinehart,,,
+Hope Welker,,,
+Alexandra Andresen,1996.0,7.0,23.0
+Nobutoshi Shimamura,,,
+Walter Wang,,,
+Dominika Kulczyk,1977.0,7.0,30.0
+John Phillips,,,
+Catherine Phillips,,,
+Wichai Thongtang,,,
+Shyam Bhartia,,,
+Ingrid Wu,,,
+Radik Shaimiev,,,
+Vladislav Filev & family,,,
+Alfredo Egydio Arruda Villela Filho,,,
+Igor Makarov,,,
+Alberto Prada,,,
+Marina Prada,1922.0,8.0,5.0
+Vitaly Orlov,,,
+Chung Mong-joon,1951.0,11.0,15.0
+Andrey Andreev,1974.0,2.0,3.0
+Rubens Menin Teixeira de Souza,1956.0,3.0,12.0
+Jon Winkelried,,,
+Pieter van der Does,,,
+Wang Wenmo,,,
+Hari Bhartia,1935.0,7.0,2.0
+Ben Silbermann,1982.0,7.0,14.0
+Cho Jyh-jer,1916.0,1.0,6.0
+Will Adderley,,,
+Roberto Hernandez Ramirez,,,
+Bhadresh Shah,,,
+Sam Chong,1990.0,4.0,24.0
+Archie Hwang,1920.0,7.0,14.0
+Wong Man Li,,,
+Albert Shigaboutdinov,,,
+Dennis Gillings,1944.0,4.0,25.0
+Ravi Modi,1980.0,9.0,10.0
+Rustem Sulteev,,,
+Paul Sciarra,,,
+John Abele & family,,,
+B. Wayne Hughes Jr,,,
+Phillip Frost,,,
+Tom Werner,1950.0,4.0,12.0
+P.P. Reddy,1915.0,1.0,4.0
+Raj Sardana,,,
+Bhavish Aggarwal,1985.0,8.0,28.0
+Stephen Orenstein & family,,,
+Thomas Steyer,1957.0,6.0,27.0
+David Chen,1979.0,1.0,29.0
+Robert Miller,,,
+Ilona Herlin,1959.0,1.0,25.0
+Karin Sartorius-Herbst,,,
+Mohammad Abunayyan,,,
+Shu Ping,,,
+Ian Wood & family,,,
+Binod Chaudhary,1955.0,4.0,14.0
+Linda Pritzker,,,
+Pan Dong,,,
+Nerio Alessandri,1961.0,4.0,8.0
+Bahaa Hariri,1966.0,4.0,26.0
+Amy Adams Strunk,1955.0,9.0,29.0
+Tor Peterson,1930.0,2.0,23.0
+Alex Birkenstock,,,
+Liu Gexin & family,1997.0,4.0,20.0
+Michael Ashcroft,1946.0,3.0,4.0
+John de Mol,1955.0,4.0,24.0
+Stephane Courbit,1965.0,4.0,28.0
+Wilma Tisch,,,
+Oren Zeev,1964.0,9.0,23.0
+Chao Chung-Hsin,1949.0,4.0,15.0
+David Lichtenstein,,,
+Gregg Hymowitz,,,
+Gary Chouest & family,,,
+Chin Jong Hwa,1964.0,9.0,24.0
+Huang Xu,1979.0,2.0,4.0
+Xu Shugen,,,
+Evangelos Mytilineos,1954.0,3.0,22.0
+Adam Forste,,,
+Kevin Marchetti,,,
+Daniel Hirschfeld,,,
+Mohamed Alabbar,1956.0,11.0,8.0
+Ilson Mateus & family,,,
+Amy Wyss,1971.0,5.0,20.0
+Louis Le Duff,,,
+Peter Lim,1953.0,5.0,21.0
+Bambang Sutantio,1963.0,11.0,4.0
+Chris Wallin,,,
+Patrick Hanrahan,1955.0,5.0,8.0
+Carl Ferdinand Oetker,,,
+Alfred Oetker,1967.0,7.0,13.0
+Shamsheer Vayalil,1977.0,1.0,11.0
+Wee Ee Lim,,,
+David Hoffmann,,,
+Sam Altman,1985.0,4.0,22.0
+Othman Benjelloun & family,,,
+Chang Jianming & family,,,
+Naomi Azrieli,,,
+Sharon Azrieli,1960.0,8.0,4.0
+Danna Azrieli,1967.0,6.0,3.0
+Bruce Toll,1943.0,4.0,29.0
+Steven Witkoff,1957.0,3.0,15.0
+Hans Sy,,,
+Alain Taravella,1948.0,5.0,24.0
+Hui Wing Mau,,,
+Lei Jufang,,,
+Cho Hyun-joon,,,
+Marc Andreessen,1971.0,7.0,9.0
+Geoffrey Palmer,,,
+Evan Williams,,,
+William Koch,,,
+Christopher Goldsbury,,,
+Deepinder Goyal,,,
+Sandor Csanyi,,,
+Jeffrey Michael & family,,,
+Wu Shaoxun,,,
+Romano Minozzi,,,
+Manuel Lao Hernández & family,,,
+Sabrina Benetton,,,
+Motilal Oswal,,,
+Herbert Allen Jr & family,,,
+Viren Doshi,,,
+Nicola Bulgari,,,
+John Oyler,1790.0,3.0,29.0
+Madhusudan Agarwal,,,
+Girdhari Lal Bawri,,,
+Riaz Valani,,,
+Terry Taylor,1955.0,8.0,12.0
+Leslie Alexander,,,
+Massimo Moratti,1945.0,5.0,16.0
+Petter Stordalen & family,1962.0,11.0,29.0
+Martin Knauf,1999.0,10.0,2.0
+Bobby Murphy,1988.0,7.0,19.0
+Ron Sim,,,
+Cristina Junqueira,,,
+Ali Erdemoglu,,,
+Kapil Bhatia,,,
+Todd Wagner,1960.0,8.0,2.0
+Lesley Bamberger,1965.0,6.0,3.0
+Kwak Dong Shin,1974.0,12.0,17.0
+Wee Ee Chao,,,
+Gavril Yushvaev & family,,,
+Keith Dunleavy & family,,,
+Carsten Maschmeyer,1959.0,5.0,8.0
+Asok Kumar Hiranandani,,,
+Chao Yung-Tsang,,,
+Alfred West Jr,1913.0,12.0,18.0
+Fan Xiulian,,,
+Elisabeth Douglas,1881.0,10.0,18.0
+Sandro Veronesi & family,,,
+Nihat Ozdemir,1950.0,4.0,5.0
+Roberto Angelini Rossi,,,
+Kie Chie Wong,,,
+Deng Weiming & family,,,
+Hermanto Tanoko,,,
+Byunghoon Kim,,,
+Miranda Qu,,,
+Charlwin Mao,,,
+Zbigniew Juroszek & family,,,
+Xu Chuanhua & family,1941.0,12.0,16.0
+Cynthia Helena Grossman Fleishman,,,
+Mark Coombs,,,
+Banwari Lal Bawri,1933.0,1.0,19.0
+Rajendra Agarwal,1951.0,10.0,2.0
+Cheng Zhenghui,,,
+Lloyd Blankfein,1954.0,9.0,20.0
+Chow Shing Yuk,,,
+Mario Gabelli,1942.0,6.0,19.0
+Shen Xiqiang & family,,,
+Guilherme Benchimol,,,
+Huang Zhenda & family,1926.0,9.0,28.0
+Pawan Munjal,,,
+Herbert Sy,,,
+Sezai Bacaksiz,1950.0,4.0,5.0
+Chad Richison,,,
+Michael Rees,,,
+Daniel Chiu,1850.0,4.0,20.0
+Ana Lucia de Mattos Barretto Villela,,,
+Stanley Hubbard,,,
+Charlotte Colket Weber,,,
+Christoph Henkel,1958.0,2.0,11.0
+Karin Schick,,,
+Andy Fang,,,
+Marc Lasry,1959.0,9.0,23.0
+Li Liangbin,1848.0,11.0,12.0
+John Goff,,,
+Petro Poroshenko,1965.0,9.0,26.0
+Joaquin del Pino y Calvo-Sotelo,,,
+Giovanni Arvedi,,,
+S.D. Shibulal,1955.0,3.0,1.0
+Itzhak Ezratti & family,,,
+Vladimir Fartushnyak,,,
+Drorit Wertheim,,,
+Edir Macedo & family,1945.0,2.0,18.0
+Alex Shevchenko,,,
+Max Lytvyn,,,
+Philippe Ginestet & family,1954.0,4.0,15.0
+Bob Ell,,,
+Gao Jifan & family,,,
+Konstantin Strukov & family,1826.0,2.0,9.0
+Wang Jianfeng & family,,,
+Athanasios Martinos & family,,,
+Mark Attanasio,1957.0,9.0,29.0
+Carmen Daurella Aguilera,,,
+Wang Miaotong,1957.0,7.0,11.0
+James Leininger,,,
+Nan Cunhui,,,
+Wenaas Lars,,,
+Luiz Frias,,,
+Phil Shawe,1831.0,3.0,6.0
+Sun Mengquan & family,1934.0,8.0,26.0
+Andres Santo Domingo,,,
+Henry Engelhardt,1958.0,1.0,17.0
+Valentin Kipyatkov,,,
+Duncan MacMillan,,,
+Yang Qiumei,1998.0,7.0,7.0
+Jenny Lindén Urnes,,,
+Hemendra Kothari,,,
+Norbert Dentressangle & family,,,
+Jannie Mouton & family,,,
+A. Jayson Adair,,,
+Liang Qin & family,1972.0,7.0,28.0
+Georg Haub,1877.0,8.0,1.0
+Ye Xiaoping,,,
+Holger Loclair,,,
+Cai Wensheng,,,
+Meng Qingshan & family,,,
+Sam Pollock,1925.0,12.0,15.0
+Suman Munjal,,,
+Sebastian Kulczyk,1980.0,11.0,16.0
+Hans-Ueli Rihs & family,,,
+Renu Munjal,,,
+Gerry Cardinale,1967.0,5.0,8.0
+Brian Higgins,1959.0,10.0,6.0
+O. Francis Biondi,,,
+Farris Wilks,,,
+Gordon Wu,,,
+Alan Miller & family,,,
+Herald Chen,,,
+Joseph Steinberg,,,
+Li Li,,,
+Zhu Weisong,,,
+Li Rucheng,,,
+Tian Ming,,,
+Bernhard Braun-Luedicke,,,
+Eva Maria Braun-Luedicke,,,
+Friederike Braun-Luedicke,,,
+Jim McKelvey,,,
+Selçuk Bayraktar,1979.0,10.0,7.0
+C.C. Leung,1869.0,4.0,28.0
+Ishay Davidi,1965.0,12.0,5.0
+Wang Xicheng & family,,,
+Harley Sy,,,
+Mustafa Kucuk,,,
+Adriaan Mol,,,
+Alexander Sixt,,,
+Konstantin Sixt,,,
+Chirayu Amin,,,
+Kim Jung-min,,,
+Kim Jung-youn,1972.0,7.0,27.0
+James France,,,
+Zhang Changhong,,,
+Richard Fortin,,,
+Dan Wilks,,,
+Lalit Khaitan,,,
+Bachtiar Karim,1957.0,11.0,5.0
+Gary Fegel,,,
+Toto Wolff,1972.0,1.0,12.0
+Maike Oberwelland-Height,,,
+Amnon Shashua,1960.0,5.0,26.0
+Gary Michelson,1949.0,1.0,14.0
+She Yingjie,1979.0,1.0,19.0
+Faisal Bin Qassim Al Thani,,,
+Hu Yangzhong,,,
+Lu Yiwen,,,
+Evan Wallace,1982.0,11.0,1.0
+Andreas Martinos & family,1990.0,6.0,13.0
+Christine Knauf,1945.0,1.0,11.0
+Lim Kok Thay,1951.0,8.0,16.0
+Arvind Lal,1949.0,8.0,22.0
+Rubén Coppel Luken,,,
+Scott Lin,,,
+Alan Zekelman,,,
+Kwee Liong Phing,,,
+Kwee Liong Seen,,,
+Kwee Liong Keng,,,
+Kwee Liong Tek,,,
+Kim Kardashian,1980.0,10.0,21.0
+Anas Sefrioui & family,1957.0,5.0,16.0
+Hao Hong,,,
+Don Levin,,,
+Mitchell Jacobson,,,
+Shao Qinxiang,,,
+Xiao Hongxing,,,
+Samuel Chen,1815.0,2.0,15.0
+Christiane Knauf,1872.0,3.0,7.0
+Karl Knauf,,,
+Karl-Johan Persson,1975.0,3.0,25.0
+Ivan Chrenko,,,
+Ni Zugen,,,
+R.G. Chandramogan,1949.0,3.0,1.0
+Yu Lili,1929.0,11.0,28.0
+Fumio Kaneko,,,
+Teo Swee Ann,,,
+Peter Jackson,1961.0,10.0,31.0
+Teresita Sy-Coson,,,
+Chang Jing,,,
+Jerry Moyes & family,1944.0,1.0,15.0
+Walter Kortschak,,,
+Mu Rongjun,,,
+Huang Dawen,1952.0,7.0,25.0
+Shivratan Agarwal,,,
+George Christ & family,1978.0,6.0,30.0
+Cao Ji,,,
+Girdhari Jaisinghani,,,
+Christopher Kwok,,,
+Wang Chaobin,1883.0,5.0,4.0
+Ivan Zhao,,,
+Igor Tulchinsky,,,
+Ruan Shuilong & family,,,
+Nir Zuk,,,
+Edward Kwok,1881.0,4.0,16.0
+Matthew Pritzker,1982.0,5.0,28.0
+Sergei Katsiev,,,
+Vladimir Yevtushenkov,1948.0,9.0,25.0
+Weng Xianding,1969.0,1.0,18.0
+Dhruv Sawhney,,,
+Hou Juncheng,,,
+Manoj Upadhyay,,,
+Ivan Savvidis & family,1959.0,3.0,27.0
+Eugene Kaspersky,1965.0,10.0,4.0
+Brian Roberts,,,
+Kishin RK,1940.0,12.0,3.0
+Raj Kumar,,,
+Benoit Dageville,,,
+Hitesh Doshi,1959.0,4.0,29.0
+Thomas Bruch,1976.0,7.0,29.0
+Dong Zengping,,,
+Yin Yee Lee,,,
+Jung Sang-soo,1980.0,2.0,26.0
+Barbara Benetton,1950.0,1.0,28.0
+Peng Zhao,,,
+Pacal Vanhalst & family,,,
+Pankaj Doshi,1953.0,4.0,25.0
+Lu Di,1975.0,10.0,15.0
+Bernd Freier,,,
+Harvey Jones,,,
+Sun Huaiqing & family,1956.0,10.0,7.0
+Francisco Jose Riberas Mera,,,
+Ron Corio,1962.0,2.0,11.0
+Peter Sperling,,,
+Helena Revoredo & family,,,
+Randal J. Kirk,1954.0,3.0,1.0
+Nicholas Pritzker,1945.0,10.0,16.0
+Kevin Glazer,1928.0,8.0,15.0
+Darcie Glazer Kassewitz,1928.0,8.0,15.0
+Edward Glazer,1928.0,8.0,15.0
+Bryan Glazer,1964.0,10.0,27.0
+Joel Glazer,1967.0,3.0,31.0
+Avram Glazer,1960.0,10.0,19.0
+Joe Rogers Jr,,,
+Michael Minhong Yu,1962.0,9.0,4.0
+Christoffel Wiese,1941.0,9.0,10.0
+Bill Gross,,,
+Eric Hémar,1981.0,4.0,9.0
+Zhou Yahui,,,
+Liang Yunchao,,,
+Zhang Xiaojuan,,,
+Brian Hill,,,
+José Coppel Luken,,,
+Alberto Coppel Luken,,,
+James Tisch,1953.0,1.0,2.0
+Juan Maria Riberas Mera,,,
+Min-Liang Tan,1977.0,11.0,5.0
+Timothy Boyle,,,
+Wang Zhenghua,,,
+Hamdi Akin & family,1954.0,8.0,17.0
+Cai Jianyong,1963.0,8.0,1.0
+Sefik Yilmaz Dizdar,,,
+Vadim Yakunin,1963.0,1.0,4.0
+Kenny Troutt,,,
+Pavan Jain,,,
+Robert Fisher,,,
+Torsten Toeller,,,
+Giammaria Giuliani,,,
+Stephen Jarislowsky,1925.0,9.0,9.0
+Artem Khachatryan,1903.0,6.0,6.0
+Gerald Schwartz,1941.0,11.0,24.0
+Vinod Saraf,,,
+Richard Chang,,,
+Lai Guogui & family,,,
+Lin Fanlian,2005.0,5.0,16.0
+Naresh Jain,1943.0,8.0,20.0
+John Van Lieshout,,,
+Jeffrey Gundlach,1959.0,10.0,30.0
+Ronald Perelman,1943.0,1.0,1.0
+David Mindus,,,
+Patrick Zalupski,,,
+Heloise Pratt,,,
+Paolo Bulgari,,,
+Wu Lanlan & family,1996.0,4.0,18.0
+Koo Kwang-mo,1978.0,1.0,2.0
+Chu Mang Yee & family,,,
+Yang Ying & family,,,
+Roland Duchatelet & family,1946.0,11.0,14.0
+Eduard Kucera,1953.0,1.0,11.0
+Mike Repole,1969.0,1.0,21.0
+Sue Gross,,,
+Aziz Akhannouch & family,1961.0,8.0,16.0
+Gretel Packer,,,
+Liu Fangyi,,,
+Heikki Herlin,1901.0,2.0,7.0
+Melissa Ma,1951.0,2.0,15.0
+K.C. Liu,,,
+Wu Jianbin,,,
+Hans Thomann,,,
+Alberto Alcocer,,,
+Zhang Shilong & family,1837.0,9.0,2.0
+Satish Mehta,1960.0,10.0,14.0
+Tom Persson,1985.0,5.0,15.0
+Christina Flügel,,,
+Larry Culp,,,
+JB Straubel,1975.0,12.0,20.0
+Eleonora Berlusconi,,,
+Barbara Berlusconi,1984.0,7.0,30.0
+Luigi Berlusconi,,,
+Ren Jianhua,1913.0,2.0,4.0
+Chen Yung-tai,1950.0,8.0,12.0
+Haluk Bayraktar,1978.0,10.0,4.0
+Chen Qixing,1997.0,6.0,23.0
+Fang Hongbo,,,
+Thomas von Koch,1969.0,3.0,13.0
+Ulrike Baro,,,
+Olivia Holding,,,
+Huang Yimeng,2002.0,5.0,30.0
+Charles Cohen,1945.0,10.0,9.0
+Jennifer Steinbrenner Swindal,,,
+Jessica Steinbrenner,,,
+Onkar Kanwar,,,
+Zhou Jian,,,
+Xiang Guangming & family,,,
+Eugene Wu,,,
+Krit Ratanarak,1946.0,4.0,19.0
+Stephane Bonvin,1961.0,12.0,8.0
+Yoshiaki Yoshida,,,
+Irfan Razack,1953.0,10.0,30.0
+Rezwan Razack,,,
+Noaman Razack,,,
+Charlotte Soderstrom,,,
+G.V. Prasad,1987.0,6.0,13.0
+Rajju Shroff,,,
+Zhang Liguo,,,
+Dean Solon,1945.0,7.0,9.0
+Lillian Teh Li Ming,,,
+William Teh Lee Pang,,,
+Lillyn Teh Li Hua,,,
+Diona Teh Li Shian,,,
+Hal Steinbrenner,1969.0,12.0,3.0
+Lee Su-jin,,,
+Rolly van Rappard,,,
+William Fisher,,,
+Satish Reddy,1938.0,10.0,22.0
+Carlos Sanchez,,,
+Laurie Tisch,,,
+Steven Tisch,,,
+David Paul,,,
+Sasson Dayan & family,1940.0,4.0,1.0
+Sidney Kimmel,1928.0,1.0,16.0
+Alberto Cortina,1946.0,1.0,20.0
+Laurans Mendelson,,,
+Artur Grynbaum,,,
+Nelson Peltz,1942.0,6.0,24.0
+Terence (Terry) Matthews,,,
+Said Gutseriev,1988.0,4.0,18.0
+Julia Oetker,1880.0,10.0,31.0
+Yasuhide Uno,1960.0,12.0,7.0
+Tong Yongsheng & family,,,
+Lin Lairong & family,1982.0,2.0,14.0
+Sharron Hunt & family,,,
+Daniel Hunt & family,,,
+Clark Hunt & family,,,
+Lamar Hunt Jr & family,1956.0,10.0,20.0
+Evgeny (Eugene) Shvidler,,,
+Wu Zhigang & family,1960.0,8.0,1.0
+Leopoldo Espinosa Abdalá,,,
+Fernando Espinosa Abdalá,,,
+Ben Ashkenazy,,,
+Li Haiyan,,,
+Per Sandberg,1960.0,2.0,6.0
+Zhang Yin,,,
+Eduard Schleicher,,,
+Ursula Hutter-Schleicher,,,
+Farkhad Akhmedov,1955.0,9.0,15.0
+Taylor Swift,1989.0,12.0,13.0
+John Bloor,1943.0,6.0,16.0
+Leonid Simanovsky,1949.0,7.0,19.0
+Zhu Zhaojiang,1932.0,8.0,21.0
+Michelle Xia,,,
+Lucio Co,1993.0,10.0,15.0
+William Lauder,,,
+Alex Beard,,,
+Chen Shibin,1950.0,10.0,12.0
+Li Jianli,1981.0,8.0,9.0
+Luis Enrique Yarur Rey,,,
+Aloke Lohia,1958.0,11.0,27.0
+Doris Fisher,,,
+Zhu Yiming,1988.0,4.0,16.0
+Bharat Desai,,,
+Dong Fan,,,
+Lu Hongyan,1945.0,6.0,27.0
+Antti Aarnio-Wihuri,1940.0,2.0,24.0
+Shalom Meckenzie & family,1976.0,6.0,12.0
+Susan Carol Holland,,,
+Mike Speiser,,,
+Filippo Ghirelli,1980.0,1.0,23.0
+Chang Chung-Hsing,1938.0,3.0,23.0
+Robert Mouawad,,,
+Karen Virginia Beckmann Legoretta,,,
+Kenzo Tsujimoto,1940.0,12.0,15.0
+Miguel Tomás Arrufat Pujol,,,
+Andrew Tan,,,
+Oleg Boyko,,,
+Sun Weijie,1955.0,7.0,14.0
+Elizabeth Sy,,,
+Johan Johannson,,,
+Peter Guber,1942.0,3.0,1.0
+Fu Guangming & family,,,
+Nikolay Fartushnyak,,,
+Yi Dasheng,,,
+Yuan Zhongxue,1921.0,4.0,18.0
+Stewart Butterfield,1973.0,3.0,21.0
+Saroj Rani Gupta,,,
+Anna Maria Braun,1979.0,7.0,3.0
+Johanna Braun,,,
+Karl Friedrich Braun,,,
+George Marcus,,,
+Aerin Lauder,1970.0,4.0,23.0
+Mofatraj Munot,,,
+Jose Maria Aristrain,,,
+Anil Gupta,,,
+Luo Yangyong & family,1994.0,2.0,19.0
+Li Qiong,,,
+Nikil Viswanathan,,,
+Joe Lau,1984.0,5.0,22.0
+Richard Fairbank,1950.0,9.0,18.0
+Christine Franken & family,,,
+Lai Jianping,,,
+Bernard Lewis & family,1916.0,5.0,31.0
+Ke Xiping & family,,,
+He Yamin & family,,,
+Horst Wortmann & family,,,
+Liesel Pritzker Simmons,1984.0,3.0,14.0
+Ni Yongpei & family,,,
+William MacMillan,,,
+Martha MacMillan,1970.0,3.0,24.0
+John MacMillan,,,
+Cargill MacMillan III,,,
+Liu Chengyu & family,,,
+Lee Hae-jin,1967.0,6.0,22.0
+Ahmet Calik,1958.0,3.0,1.0
+Samir Mane,1967.0,12.0,24.0
+Chen Zhisong,,,
+Dmitry Kamenshchik,1968.0,4.0,26.0
+Michael Tojner,1950.0,11.0,19.0
+Hartley Rogers,1926.0,7.0,6.0
+Patricia Angelini Rossi,,,
+Pan Laican,,,
+David Fattal & family,1980.0,9.0,9.0
+Hajime Satomi,1942.0,1.0,16.0
+He Zhaoxi,1921.0,9.0,14.0
+Bahari Karim,,,
+Burhan Karim,,,
+Eddy Kusnadi Sariaatmadja,1953.0,8.0,23.0
+Zeng Chaoyi,,,
+John Armitage,,,
+Ryan Graves,,,
+Jared Isaacman,1983.0,2.0,11.0
+Michael Teel,1985.0,6.0,30.0
+Diego Della Valle,1953.0,12.0,30.0
+Xu Zhenhua,1931.0,8.0,24.0
+Justin Yuan,1982.0,8.0,23.0
+Timothy Dunn & family,,,
+John Morgan,,,
+Yu Qibing & family,,,
+Carmen Thyssen,,,
+Alan Gerry,1929.0,12.0,24.0
+Li Weiwei,,,
+Magic Johnson,1959.0,8.0,14.0
+Lu Zongjun,,,
+Dariusz Milek,,,
+Yao Kuizhang,,,
+Dmitry Alexeyev,,,
+Ulrike Meister,,,
+Lee Jay-hyun,1960.0,3.0,19.0
+Yeh Kuo-I,1916.0,4.0,22.0
+Sze Man Bok,,,
+Scot French,,,
+Michael Patterson,,,
+Zsolt Felcsuti,1971.0,5.0,26.0
+Rubens Ometto Silveira Mello,,,
+Stephen Winn,,,
+Ludwig Theodor Braun,,,
+Ronnie Screwvala,1956.0,9.0,8.0
+Agustín Coppel Luken,,,
+Tang Aoqi & family,1915.0,11.0,18.0
+Franziska Wuerbser,,,
+Gabriella Meister,,,
+Chey Tae-won,1960.0,12.0,3.0
+Filip Balcaen & family,,,
+Jeffrey Lorberbaum,1954.0,10.0,24.0
+Dan Gertler,1973.0,12.0,23.0
+Jin Lei & family,1992.0,12.0,4.0
+Zhao Hongfei,,,
+Premchand Godha,1911.0,5.0,28.0
+Philip Fayer,1931.0,9.0,10.0
+Gu Wei,,,
+Shigefumi Wada,,,
+Yan Zhi,,,
+Nie Tengyun & family,,,
+Ronald Clarke,,,
+Xu Shaochun,,,
+Andrew Tisch,1949.0,8.0,14.0
+Li Hongjing,,,
+Saket Burman,,,
+Jimmy Rane,,,
+Susan Co,1952.0,12.0,7.0
+Lin Chang Su-O,,,
+Wang Linpeng,1941.0,3.0,17.0
+Li Guoqiang,,,
+Kirit Doshi,,,
+Lin Zhixiong & family,1974.0,11.0,29.0
+Chen Kaichen,1978.0,2.0,22.0
+Mark Pincus,1966.0,2.0,13.0
+F.C. Tseng,,,
+Yusaku Maezawa,1975.0,11.0,22.0
+Brett Adcock,1986.0,4.0,6.0
+Greg Brown,,,
+Radhe Shyam Agarwal,1946.0,2.0,18.0
+Adrian Paval,1959.0,5.0,29.0
+Shirley Kao,1934.0,4.0,24.0
+Tan Lili,,,
+Dmitry Nikolaev,,,
+Vincent Lo,1948.0,4.0,18.0
+Frank McCourt,1930.0,8.0,19.0
+Li Jinyang,1915.0,12.0,23.0
+Zeng Kaitian,1984.0,4.0,22.0
+Jordi Rubiralta,,,
+Swift Xie,,,
+Allan Wong,1966.0,10.0,20.0
+Thierry Cruanes,,,
+Li Zhen & family,,,
+Jin Lei,1992.0,12.0,4.0
+Yves-Loic Martin,,,
+Lu Lili,,,
+Yao Hsiao Tung,,,
+Arsen Kanokov,1957.0,2.0,22.0
+Tibor Veres,,,
+Mario Moretti Polegato & family,1952.0,8.0,16.0
+Art Levinson,1950.0,3.0,31.0
+Zhu Jiangming,,,
+Prayudh Mahagitsiri,,,
+Denis Shtengelov,,,
+Zhong Ruonong & family,,,
+David Xueling Li,,,
+Nikesh Arora,1968.0,2.0,9.0
+Brandt Louie,1943.0,7.0,5.0
+Jared Smith,,,
+Wang Chou-hsiong,,,
+Carson Brice,,,
+Yu De-Chao,,,
+Jiang Long,1933.0,1.0,1.0
+Claire Bristow,,,
+Yang Yuanqing,1964.0,11.0,12.0
+Brad Kelley,,,
+Sergey Shishkarev,1968.0,2.0,2.0
+Ulrich Mommert & family,,,
+Mehmet Ali Aydinlar,1956.0,7.0,24.0
+Vladimir Bogdanov,1951.0,5.0,28.0
+Hisako Yamamoto,1921.0,8.0,23.0
+Junro Ito,1963.0,7.0,31.0
+Yasuhisa Ito,1960.0,12.0,7.0
+Raymond Kwok,,,
+Wu Bo,,,
+Lim Chap Huat,,,
+Markus Persson,1979.0,6.0,1.0
+Chen Guodong,,,
+Chen Baohua,1956.0,3.0,9.0
+Mori Arkin,,,
+Christopher Stolte,1924.0,11.0,21.0
+Binny Bansal,,,
+Li Jiaquan,1987.0,3.0,8.0
+Youssef Mansour,,,
+Marius Nacht,1890.0,12.0,4.0
+Lin Zhijun,1974.0,11.0,29.0
+Elly Reisman,1917.0,10.0,7.0
+Alessandro Rosano,,,
+Peter Kelly,,,
+George Yancopoulos,,,
+Tan Yu Yeh,,,
+Li Zhiyuan,,,
+Yigal Dimri,,,
+Manoj Punjabi,1972.0,12.0,7.0
+Wu Chung-yi,,,
+Chua Thian Poh,,,
+Ayman Hariri,1978.0,5.0,16.0
+Philip Green,1952.0,3.0,15.0
+Cristina Green,1952.0,3.0,15.0
+Margarita Latsis Catsiapis & family,,,
+Naresh Trehan,1945.0,8.0,12.0
+He Ningning,1995.0,1.0,28.0
+Nobutada Saji,,,
+Ben Francis,1992.0,6.0,4.0
+Li Xuhui,1991.0,1.0,24.0
+Brad Keywell,,,
+Ziv Aviram,,,
+Li Weizhu,1896.0,6.0,2.0
+Kochouseph Chittilappilly,,,
+Christoph Zeller,,,
+Suh Kyung-bae,1963.0,1.0,14.0
+Amit Burman,,,
+Frederic Luddy,1878.0,11.0,10.0
+Josef Boquoi & family,,,
+Martine Rothblatt,,,
+Eric Ya Shen,1980.0,4.0,22.0
+Hua Xuande & family,,,
+Stephen Fredette,,,
+Forrest Preston,1933.0,3.0,22.0
+Deniz Sahenk,1929.0,6.0,11.0
+Zhou Chengjian,,,
+Donald Mackenzie,,,
+Hisao Nagata,,,
+Liu Ming Chung,1836.0,9.0,7.0
+Michael Steinhardt,1940.0,12.0,7.0
+Takaya Awata,,,
+Michael McCain,1958.0,11.0,13.0
+Bulent Eczacibasi,,,
+Michael Spencer,1955.0,5.0,30.0
+Zhong Sheng Jian,,,
+Zhang Hongwei,,,
+Gary Magness,,,
+Jiang Yintai & family,2004.0,8.0,1.0
+Zhou Zongwen & family,,,
+Vijay Shekhar Sharma,1978.0,6.0,7.0
+Zeng Chaolin,1899.0,5.0,25.0
+Chung Yong-ji,1970.0,2.0,25.0
+Lau Cho Kun,,,
+Su Qingcan,,,
+Tyler Perry,1969.0,9.0,13.0
+Subbamma Jasti,,,
+Li Haizhou & family,,,
+Albert Nahmad,1902.0,7.0,28.0
+Taavet Hinrikus,,,
+Harald Link,1955.0,1.0,12.0
+Neide Helena de Moraes,,,
+Jose Ermirio de Moraes Neto,,,
+Jose Roberto Ermirio de Moraes,,,
+Chen Xueli,1990.0,6.0,28.0
+Tope Awotona,1981.0,5.0,4.0
+He Zuxun,,,
+Yuan Zhimin & family,1939.0,7.0,8.0
+Femi Otedola,1962.0,11.0,4.0
+Joop van den Ende,1942.0,2.0,23.0
+Darwin Deason,,,
+Yu Peidi,1968.0,1.0,2.0
+Simón Pedro Barceló Vadell,,,
+Zhang Xuewu,1901.0,6.0,3.0
+Shao Genhuo,,,
+Surin Upatkoon,,,
+Wu Xushun & family,1985.0,6.0,22.0
+Antonio Percassi,1953.0,6.0,9.0
+Yao Runhao,1982.0,4.0,19.0
+Tianqiao Chen,,,
+Boris Rotenberg,,,
+William Heinecke,,,
+Deepak Mehta,1950.0,9.0,15.0
+Lev Kvetnoi,,,
+Benjamin Zhengmin Pan & family,,,
+Alexander Knauf,1959.0,2.0,19.0
+Zhang Wenzhong,1962.0,7.0,1.0
+Wirastuty Fangiono,,,
+David Feffer,,,
+Vicente Boluda Fos,,,
+Stelios Haji-Ioannou,1967.0,2.0,14.0
+Frank Holding Jr,,,
+Qian Ying,,,
+Alexander Mikhalskiy,,,
+Andrei Komarov & family,1961.0,4.0,21.0
+Huang Shanbing & family,,,
+Kazim Turker,,,
+Habil Khorakiwala,,,
+Oran Holtzman,,,
+Huang Chulong,1950.0,12.0,14.0
+Richard Desmond,1951.0,12.0,8.0
+Anand Surana,,,
+Dilip Surana,,,
+Richard Kayne,,,
+Tang Jinkui & family,1992.0,1.0,8.0
+Bob Muglia,,,
+Christian Louboutin,1964.0,1.0,7.0
+Elena Baturina,1963.0,3.0,8.0
+Li Shui-po,,,
+Fredrik Österberg,,,
+Dai Wenyuan & family,,,
+Xiong Wu,,,
+Xu Xudong & family,1990.0,2.0,16.0
+Park Dong-suk,,,
+Xiang Wenbo,,,
+Hiroshi Ishibashi,1980.0,6.0,6.0
+Tiger Woods,1975.0,12.0,30.0
+Andrei Kosogov,1961.0,3.0,15.0
+Zhang Zhongneng & family,,,
+Paul Fireman,1944.0,2.0,14.0
+Li Weiguo,,,
+Seth Klarman,1957.0,5.0,21.0
+Hary Tanoesoedibjo,1965.0,9.0,26.0
+Joseph Baratta,,,
+Vladimir Voronin,1941.0,5.0,25.0
+Michael Chae,1942.0,10.0,23.0
+Eric Glyman,1955.0,9.0,2.0
+Karim Atiyeh,,,
+Gene Lee,,,
+Tang Xiuguo,,,
+Lim Chai Hock,,,
+Jahm Najafi,,,
+Jeff Sprecher,,,
+Song Fei,,,
+Ivan Streshinsky,,,
+Marty Horton,,,
+C.C. Paarthipan,,,
+Martin Moller Nielsen,,,
+Xie Juhua & family,,,
+Keiko Erikawa,,,
+Stuart Miller,,,
+Yoichi Erikawa,,,
+Pavel Demidov & family,,,
+Lin Dingqiang & family,,,
+Gao Xingjiang,1940.0,1.0,4.0
+Michael Krasny,,,
+Mao Zhongwu,,,
+Yuri Karptsov,,,
+JoeBen Bevirt,,,
+Zhang Tianyu,1988.0,10.0,28.0
+Daniel Dines,,,
+Maky Zanganeh,,,
+Chen Wenyuan & family,1979.0,9.0,18.0
+Stanley Tang,,,
+Sven Hagströmer,1943.0,11.0,30.0
+Thomas Bailey,,,
+Mathias Doepfner,1963.0,1.0,15.0
+Marc Rubiralta,,,
+Xavier Rubiralta,,,
+Jose Luis Rubiralta,,,
+Andrei Molchanov,,,
+Wu Zhongyi,1917.0,7.0,27.0
+Qi Xiangdong,,,
+Mustafa Hamied,,,
+Eduardo Costantini,1946.0,9.0,17.0
+Prasanna Sankar,,,
+Jose Isaac Peres & family,,,
+Vladimir Melnikov,1960.0,5.0,21.0
+Sara Blakely,1971.0,2.0,27.0
+Igor Khudokormov,,,
+Alexander Isaev,,,
+Robert Knauf & family,1941.0,6.0,5.0
+Chen Jinghong & family,,,
+Alexander Savelyev & family,,,
+Alexander Linnik,1979.0,8.0,16.0
+Myron Wentz,1940.0,8.0,13.0
+Richard Barton,1790.0,8.0,30.0
+Daniel Feffer,,,
+Victor Linnik,,,
+Vera Rechulski Santo Domingo,,,
+Zhao Dongping,,,
+Angela Bennett,,,
+Wei Lidong & family,1911.0,10.0,1.0
+Roman Avdeev,1967.0,6.0,17.0
+Susumu Fujita,1912.0,1.0,8.0
+Apoorva Mehta,,,
+Chen Yuantai,,,
+Gleb Fetisov,,,
+Boris Nuraliev,,,
+Lauren Leichtman,,,
+Arthur Levine,,,
+Strive Masiyiwa,1961.0,1.0,29.0
+Karl Hedin,,,
+Mariana Voigt Schwartz Gomes,,,
+Eduardo Voigt Schwartz,,,
+Lucy Guo,1994.0,10.0,14.0
+Larry Fink,1952.0,11.0,2.0
+Lyudmila Kogan,1958.0,4.0,11.0
+Alexander Mamut & family,1960.0,1.0,29.0
+Lim Kaling,,,
+Akshay Arora,1937.0,10.0,12.0
+Mohammed Ibrahim,,,
+Mark Dixon,,,
+Ruben Feffer,,,
+James Jannard,1949.0,6.0,8.0
+Yi Xianzhong & family,,,
+Nancy Lerner,,,
+Eiichi Kuriwada,,,
+Wang Shuifu,1994.0,4.0,21.0
+Sytse 'Sid' Sijbrandij,,,
+Lawrence Ho,,,
+Nimesh Kampani,1946.0,9.0,30.0
+Vlad Yatsenko,,,
+Andrei Rappoport,,,
+Jim Koch,1949.0,5.0,27.0
+Vladimir Leshchikov,1932.0,4.0,29.0
+Fahed Hariri,,,
+Lai Jianfa,1910.0,10.0,29.0
+Per Franzén,1971.0,8.0,14.0
+Guy Laliberté,1959.0,9.0,2.0
+Jens von Bahr,,,
+Sun Guangxin,,,
+Randolph Lerner,1962.0,2.0,21.0
+Norma Lerner,,,
+Yasseen Mansour,,,
+Nicholas Woodman,1975.0,6.0,24.0
+Christian Chabot,,,
+Clemens Toennies,,,
+Robert Toennies,1939.0,8.0,24.0
+Chen Qingzhou & family,,,
+Jorge Feffer & family,,,
+Theresia Gouw,,,
+Tony Tan Caktiong,1953.0,1.0,5.0
+Liu Xiucai & family,,,
+Kirill Minovalov,1971.0,4.0,22.0
+Wang Mingwang,,,
+Kai-Uwe Hollweg,,,
+Vadim Novinsky,1963.0,6.0,3.0
+Sundar Pichai,1972.0,6.0,10.0
+Satyanarayana Chava,,,
+Tony Townley,,,
+Sanjay Agarwal,,,
+Rajinder Gupta,,,
+Frank Laukien,,,
+Simona Giorgetta,,,
+Donald Friese,1940.0,10.0,3.0
+Jiang Xuefei & family,1979.0,5.0,1.0
+Pat Neal,1949.0,3.0,4.0
+Chang Kuo-Ming,,,
+Chen Huwen,1986.0,2.0,10.0
+Ma Fei,1950.0,7.0,13.0
+Zong Yanmin,,,
+Gary Tharaldson,,,
+Paul Lee,,,
+Yousuf Mohammad Jamjoom,,,
+Sachin Bansal,1981.0,8.0,5.0
+J.K. Rowling,1965.0,7.0,31.0
+Edward Netylko,,,
+Tsao Ter-fung,,,
+Sun Hongjun,,,
+Jet Jie Li,,,
+Marina Caprotti,,,
+Giuliana Caprotti,,,
+John Lim,1935.0,12.0,23.0
+Hideyuki Busujima,,,
+Sarah Humphreys Atkins & family,,,
+David Humphreys & family,,,
+Maxim Tebar,1955.0,12.0,10.0
+Catharina Mühleis,,,
+Wang Yue,,,
+Gao Yi & family,,,
+Peter Kamprad,1971.0,8.0,12.0
+Mathias Kamprad,,,
+Jonas Kamprad,,,
+Jean-Marc Chapus,,,
+Bastian Nominacher,,,
+Liang Zhaoxian,,,
+Suresh Krishna,,,
+Ken Kendrick,1943.0,9.0,2.0
+Nguyen Dang Quang,1963.0,8.0,23.0
+Danilo Iervolino,,,
+Soichiro Minami,,,
+Gyorgy Gattyan,1975.0,6.0,14.0
+Jin Xin,,,
+Li Zhigang,,,
+Charles Gibbon,,,
+Axel Oberwelland & family,1966.0,8.0,1.0
+J. Christopher Flowers,,,
+Gwynne Shotwell,1963.0,11.0,23.0
+Daniela Amodei,,,
+Christopher Olah,,,
+Dario Amodei,,,
+Tom Brown,,,
+Jared Kaplan,,,
+Jack Clark,,,
+Sam McCandlish,,,
+Andrei Filatov,1971.0,12.0,18.0
+Cao Yuhua & family,,,
+Timothy Headington,,,
+Michael Gans & family,1958.0,8.0,29.0
+Qin Long,1979.0,7.0,17.0
+Tang Ye,,,
+Steven Schuurman,,,
+Zhang Xuansong,,,
+Victor Jacobsson,1895.0,2.0,10.0
+Rao Wei & family,,,
+Oliver Samwer,,,
+Michael Andlauer,,,
+Thomas Sandell,,,
+Cheah Cheng Hye,,,
+Pan Shiyi,1963.0,11.0,14.0
+Polys Haji-Ioannou,,,
+Ron Shaich,1953.0,12.0,30.0
+LeBron James,1984.0,12.0,30.0
+Tony Chen,,,
+Martin Klenk,1969.0,6.0,23.0
+Arnold Schwarzenegger,1947.0,7.0,30.0
+Qian Jinghong,1911.0,12.0,30.0
+Aydin Dogan,1936.0,4.0,15.0
+Cheng Xianfeng,,,
+Jan-Hendrik Goldbeck,,,
+Jörg-Uwe Goldbeck,,,
+Joachim Goldbeck,,,
+Faruk Eczacibasi,,,
+Wang Wenyin,,,
+Dick Wolf,1946.0,12.0,20.0
+Chen Ailian & family,1939.0,12.0,24.0
+Michaela Herz,1944.0,11.0,4.0
+Christian Herz,,,
+Bruce Springsteen,1949.0,9.0,23.0
+Madan Mohanka,1861.0,12.0,25.0
+Zhuang Kuilong & family,,,
+Erik Must,1943.0,1.0,26.0
+Yang Xuegang,,,
+Huang Jian,,,
+He Zhenggang,1929.0,12.0,29.0
+Niraj Shah,,,
+John Christodoulou,1965.0,5.0,24.0
+Vladimir Krupchak,1958.0,1.0,29.0
+Sergey Lomakin,1951.0,3.0,29.0
+Nikita Mishin,1971.0,8.0,29.0
+Clelia Haji-Ioannou,1970.0,1.0,1.0
+Konstantin Nikolaev,1971.0,3.0,5.0
+Noubar Afeyan,1962.0,7.0,25.0
+Rajesh Sharma,,,
+Réal Plourde,,,
+Joe Kiani,1964.0,9.0,16.0
+Luc Tack,,,
+Blair Hull,1942.0,9.0,3.0
+Geng Diangen,,,
+Shin Chang-jae,,,
+Chen Huxiong,,,
+Lisa Su,,,
+Zhang Jianguo & family,,,
+Lou Guoqiang,1976.0,1.0,10.0
+Ruben Vardanyan & family,,,
+Michael Dunlap & family,1989.0,4.0,10.0
+Michele Kang,1959.0,6.0,1.0
+Kenneth Lo,,,
+Yvonne Lo,,,
+Mahaveer Prasad Taparia,,,
+Cai Mingtong,,,
+Michael Kum,,,
+Wang Minwen,,,
+Veronica Squinzi,,,
+Marco Squinzi,,,
+J. Wayne Weaver,1935.0,1.0,14.0
+Ke Guihua,,,
+Scott Smith,,,
+Ye Shanqun & family,,,
+Caspar Callerström,,,
+Jiang Zhaobai,,,
+Kalpana Parekh,,,
+Stéphane Bancel,1972.0,7.0,20.0
+Christian Angermayer,,,
+Jane Goldman,1970.0,6.0,11.0
+Rui Chen,1977.0,9.0,24.0
+Steve Conine,,,
+Candido Pinheiro Koren de Lima & family,,,
+Xu Wanmao,1907.0,12.0,28.0
+Maxim Shubarev,,,
+James Litinsky,,,
+Shivratan Taparia,,,
+William Franke,,,
+Zhang Xin,1965.0,8.0,24.0
+Anatoly Skurov,1952.0,12.0,7.0
+Laurent Junique,,,
+Craig Abod,,,
+Ricardo Villela Marino,,,
+Rodolfo Villela Marino,,,
+Chung Yong-jin,1968.0,9.0,19.0
+Gao Yunfeng,2001.0,4.0,13.0
+Andrei Kuzyaev,1951.0,3.0,27.0
+Chang Pyung-soon,,,
+Zhong Peifeng,1987.0,3.0,13.0
+Kostyantin Zhevago,1974.0,1.0,7.0
+Xue Jiping,1953.0,6.0,15.0
+Wu Kaiting,,,
+Mimi Haas,,,
+Quek Leng Chye,1943.0,8.0,12.0
+Deng Hui & family,1904.0,8.0,22.0
+Li Fuchao,,,
+Ryuji Arai,1986.0,9.0,2.0
+Patrizio Vinciarelli,,,
+Kim Taek-jin,1967.0,3.0,14.0
+Antonio Gallardo Ballart,,,
+Takanori Nakamura,,,
+Xiu Laigui,,,
+Zhang Keqiang,1946.0,11.0,4.0
+Liu Jianjun,1969.0,1.0,5.0
+Soegiarto Adikoesoemo,,,
+Ryan Israel,,,
+Bruce Wilson,,,
+Alan Wilson,,,
+John Wilson,,,
+Konstantin Goncharov & family,,,
+Chen Xuehua,1965.0,10.0,10.0
+Xu Shijun & family,,,
+Denise Prenosil,,,
+Wang Yanqing & family,1472.0,10.0,26.0
+Zhong Huaijun,,,
+Madeleine Olsson Eriksson,1945.0,8.0,25.0
+Christopher Brown,,,
+Yuri Shefler,1967.0,9.0,10.0
+Anton Fedun,,,
+Andrei Krivenko,1981.0,2.0,18.0
+Cui Genliang,,,
+Zan Shengda,,,
+Ma Bin & family,,,
+Igor Yakovlev,1991.0,9.0,17.0
+Shin Dong-joo,1954.0,1.0,28.0
+Huang Qiaoling,1977.0,11.0,13.0
+Alexander Rinke,,,
+Bart van Malderen,,,
+Luigi Cremonini & family,,,
+Weijian Shan,,,
+Jerry Seinfeld,1954.0,4.0,29.0
+Robyn Jones,,,
+Mark Jones,,,
+Oleg Misrevra,,,
+Wu Yonghua,1907.0,11.0,1.0
+Ed Hallen,,,
+Alfredo Harp Helu & family,1944.0,3.0,11.0
+Vivek Ramaswamy,1985.0,8.0,9.0
+George Raymond Zage III,,,
+Joe Agresti,,,
+Ekaterina Fedun,1994.0,6.0,23.0
+Li Li,,,
+Michael Lee-Chin,1951.0,1.0,3.0
+Sam Tarascio,1944.0,6.0,22.0
+Marissa Mayer,1975.0,5.0,30.0
+Nicholas Howley,1923.0,6.0,25.0
+Edouard Carmignac,1947.0,9.0,5.0
+Herriot Tabuteau,,,
+Eusebio Tanco,,,
+Zhou Wen & family,,,
+Mike Danson,1951.0,5.0,8.0
+Koo Bon-neung,1949.0,3.0,26.0
+Sheila Johnson,1949.0,1.0,25.0
+Chang Kuo-Wei,,,
+Luis von Ahn,1978.0,8.0,19.0
+Daniel Roullier & family,1935.0,11.0,14.0
+Wang Jilei,1988.0,7.0,11.0
+Pedro Grendene Bartelle,,,
+Morris Kahn,1930.0,3.0,5.0
+Ma Yunsheng,1961.0,8.0,15.0
+Hans Langer,1953.0,1.0,14.0
+Roy Mann,1981.0,12.0,4.0
+Amy Goldman Fowler,,,
+Grigory Berezkin,1966.0,8.0,9.0
+Xu Guozhong & family,,,
+Ashok Kajaria,1972.0,12.0,18.0
+Alexander Evnevich & family,1902.0,5.0,26.0
+Shen Jinhua,,,
+Jacques Merceron-Vicat & family,,,
+Satya Nadella,1967.0,8.0,19.0
+William Fung,1949.0,2.0,21.0
+Tatiana Volodina,,,
+Muhammed Aziz Khan,,,
+Roger Federer,1981.0,8.0,8.0
+David Kabiller,1963.0,7.0,2.0
+Kurt Krieger,,,
+Bruce Beal Jr,,,
+Jonas Dhaenens,,,
+Qiu Minxiu,,,
+Marc Samwer,1951.0,11.0,11.0
+Alexander Samwer,1998.0,6.0,15.0
+Severin Hacker,1984.0,11.0,6.0
+Pradip Burman,,,
+Hamad Ali Al-Sagri,,,
+Xie Bingkun & family,1906.0,9.0,5.0
+Orion Hindawi,,,
+Zuo Zongshen & family,,,
+John Liew,,,
+Kenji Kasahara,,,
+Harry Klagsbrun,,,
+Victor Fung,,,
+Shay Banon,,,
+Jorge Gallardo Ballart,,,
+Lee Ho-jin,,,
+Diane Kemper,1923.0,3.0,14.0
+Diamantis Diamantides & family,,,
+Gary Friedman,1957.0,8.0,6.0
+Xiong Xiaochuan,,,
+Arthur Xiaobo Hong,,,
+Hedda im Brahm-Droege,,,
+Chu Jian,,,
+Analjit Singh,1954.0,1.0,11.0
+Jeffrey Soffer,1932.0,9.0,20.0
+Wang Kunxiao,1973.0,1.0,9.0
+Dou Zhenggang,,,
+Chaitanya Desai,,,
+Kushal Desai,,,
+Eddy Sugianto,,,
+Cai Hongbin,,,
+Andrii Verevskyi,1974.0,7.0,24.0
+Li Liufa & family,1899.0,11.0,18.0
+Hua Shen,,,
+Xu Zhihan,1973.0,3.0,2.0
+Kiki Barki,,,
+Ric Elias,,,
+Chang Byung-gyu,1973.0,4.0,25.0
+Fu Kwan,,,
+Nutchamai Thanombooncharoen,,,
+Lu Zhongfang,,,
+Koo Bon-sik,1958.0,6.0,28.0
+Larry Silverstein,1931.0,5.0,30.0
+Shashank Kumar,1940.0,12.0,7.0
+Harshil Mathur,,,
+Xu Jiangnan,,,
+K. Rai Sahi,,,
+Simone Maag de Moura Cunha,,,
+Rihanna,1988.0,2.0,20.0
+Don Ahern,1947.0,7.0,22.0
+Bill Cummings,,,
+Nigel Austin,1970.0,9.0,24.0
+Mustafa Latif Topbas,,,
+Miao Yongjun,,,
+Peng Jianhu,1996.0,12.0,18.0
+Zhao Tongtong,1982.0,11.0,28.0
+Khalid Abdul Rahman Saleh Al Rajhi,,,
+Husnu Ozyegin,1944.0,9.0,1.0
+Itamar Locks & family,,,
+Blairo Maggi,1956.0,5.0,29.0
+Thor Bjorgolfsson,1967.0,3.0,19.0
+Sergey Shnayder & family,,,
+Liang Wenfeng,,,
+Murat Vargi,,,
+Shi Yifeng,1967.0,5.0,5.0
+Hong Seok-joh,1971.0,2.0,3.0
+Norman Asbjornson,,,
+Chang Kuo-Cheng,,,
+Clóvis Ermírio de Moraes,,,
+Regina Helena S. Velloso,,,
+Carlos Eduardo M. Scripilliti,,,
+Wang Zelong,1920.0,3.0,5.0
+Wen Pengcheng & family,,,
+Jasminder Singh & family,,,
+Lee Seung-gun,1982.0,1.0,30.0
+Mao Lixiang & family,,,
+Yu Jinkun & family,,,
+Louis Bacon,1956.0,7.0,25.0
+Hubertus Benteler,,,
+Edwin Soeryadjaya,1949.0,7.0,17.0
+Wang Junjin,,,
+Neerja Sethi,,,
+Abigail Bennett,1980.0,7.0,15.0
+Gennady Kozovoy,,,
+Lennart Blecher,,,
+Lívia Voigt de Assis,,,
+Dora Voigt de Assis,,,
+Liu Ming Hui,,,
+Zach McLeroy,,,
+Li Jianguo,,,
+Wang Qiangxiang,,,
+Zhang Yubai,,,
+Axel Stawski,,,
+Alexander Klyachin,1967.0,5.0,18.0
+Richard Kurtz,1925.0,11.0,10.0
+David Hindawi,,,
+Stephen Ketchum,,,
+Huang Guanlin,,,
+Sergio Fogel,,,
+Bruce Mathieson,,,
+Philippe Benacin,,,
+Raymond Bentley,1904.0,4.0,23.0
+Zachary Stern,1966.0,3.0,5.0
+Xu Yuejuan,1989.0,10.0,20.0
+Xiong Haitao,,,
+Zhang Xuezheng,,,
+Han Tao,,,
+Kanye West,1977.0,6.0,8.0
+Gary Wang,,,
+Elizabeth Holmes,1984.0,2.0,3.0
+Rene Benko,1977.0,5.0,20.0
+Sam Bankman-Fried,1992.0,3.0,5.0

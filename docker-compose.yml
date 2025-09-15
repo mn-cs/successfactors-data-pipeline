@@ -1,0 +1,27 @@
+services:
+  db:
+    image: postgres:17.6
+    container_name: success-db-y
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "${POSTGRES_PORT}:${POSTGRES_PORT}"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./successfactors/sql:/sql
+      - ./data:/import
+
+  app:
+    build: .
+    container_name: success-app-y
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+    command: ["python", "-m", "successfactors"]
+
+volumes:
+  postgres_data:
+    name: postgres_data_y
