@@ -192,3 +192,6 @@ cython_debug/
 
 # Ignoring directory
 successfactors/z_util/
+
+# VS Code workspace settings
+.vscode/
