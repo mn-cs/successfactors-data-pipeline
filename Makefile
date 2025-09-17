@@ -4,7 +4,7 @@
 
 PROJECT_NAME = successfactors
 PYTHON_VERSION = 3.10
-PYTHON_INTERPRETER = python
+PYTHON_INTERPRETER = $(shell if [ -x .venv/bin/python ]; then echo .venv/bin/python; else echo python3; fi)
 
 #################################################################################
 # COMMANDS                                                                      #
@@ -38,7 +38,6 @@ lint:
 format:
 	ruff check --fix
 	ruff format
-
 
 
 ## Run tests

@@ -26,21 +26,23 @@ dependencies = [
   "beautifulsoup4",
   "lxml",
   "loguru",
-  "psycopg[binary]>=3.2" 
+  "psycopg2-binary",
+  "sqlalchemy"
 ]
 
 [project.optional-dependencies]
 dev = [
   "ipython",
+  "jupysql",
   "jupyterlab",
   "notebook",
-  "loguru",
   "matplotlib",
   "mkdocs",
   "pytest",
   "ruff",
   "tqdm",
-  "typer"
+  "typer",
+  "ipywidgets"
 ]
 
 [tool.ruff]

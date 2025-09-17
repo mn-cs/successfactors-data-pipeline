@@ -195,3 +195,7 @@ successfactors/z_util/
 
 # VS Code workspace settings
 .vscode/
+
+# DB connection profiles for JupySQL
+.jupysql/
+connections.ini

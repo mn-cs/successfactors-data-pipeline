@@ -31,6 +31,7 @@ A data science project that collects profiles of successful individuals through 
 ├── notebooks            <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
 │                         `1.0-jqp-initial-data-exploration`.
+│   └── sql_connections  <- Database connection examples and methods in Jupyter Notebook
 │
 ├── pyproject.toml       <- Project configuration file with package metadata for
 │                         successfactors and configuration for tools like black
@@ -72,7 +73,11 @@ A data science project that collects profiles of successful individuals through 
     │
     ├── processors              <- Data processing utilities and pipelines
     │
-    ├── sql                     <- SQL scripts for database operations and queries
+    ├── sql                     <- SQL scripts organized by purpose
+    │   ├── analytics           <- Analytical queries and data exploration SQL
+    │   ├── commands.md         <- SQL command documentation and examples
+    │   ├── schema              <- Database schema definitions and table creation scripts
+    │   └── staging             <- Data staging and ETL SQL scripts
     │
     └── web_scrapers            <- Scripts to scrape data from websites
 ```
