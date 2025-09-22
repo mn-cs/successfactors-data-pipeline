@@ -42,6 +42,7 @@ dev = [
   "ruff",
   "tqdm",
   "typer",
+   "seaborn",
   "ipywidgets"
 ]
 

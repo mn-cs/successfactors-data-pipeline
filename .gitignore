@@ -199,3 +199,6 @@ successfactors/z_util/
 # DB connection profiles for JupySQL
 .jupysql/
 connections.ini
+
+# bash commends 
+/z-commands.md
