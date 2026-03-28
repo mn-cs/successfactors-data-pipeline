@@ -97,7 +97,7 @@ The project follows a structured ETL pipeline:
 
 ## 📁 Project Structure
 
-```
+```text
 ├── .dockerignore        <- Docker ignore file for build optimization   ┐
 ├── .env                 <- Environment variables (API keys, secrets)   │ <- not in version control
 ├── .gitignore           <- Git ignore file specifying untracked files. │
@@ -292,12 +292,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Forbes for providing billionaire data through their API
 - Wikipedia for biographical information
 - Open source community for the amazing tools and libraries
-
-## 📞 Contact
-
-**Michael** - [@micben-cs](https://github.com/micben-cs)
-
-Project Link: [https://github.com/micben-cs/successfactors](https://github.com/micben-cs/successfactors)
 
 ---
 
