@@ -239,5 +239,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open source community for the amazing tools and libraries
 
 ---
-
-_Built with ❤️ for data science and success analysis_
