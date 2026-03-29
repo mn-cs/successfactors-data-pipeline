@@ -10,23 +10,21 @@ separate university and degree fields.
 - Saves the transformed DataFrame to data/interim/ as a timestamped CSV file.
 """
 
-import re
-import pandas as pd
-import numpy as np
-import glob
 from datetime import datetime, timezone
+from glob import glob
+from pathlib import Path
+import re
+
+import pandas as pd
+
 
 def parse_education(edu: str):
-    """
-    Parse education string into up to 3 (university, degree) pairs.
-    Always match 'text before ( ... )' as university, inside as degree.
-    """
     if pd.isna(edu) or not str(edu).strip():
         return [(None, None)] * 3
+
     s = str(edu).replace("\xa0", " ")
     pairs = []
-    # regex: capture (university name)(degree inside)
-    # non-greedy before, then parentheses
+
     pattern = re.compile(r"\s*([^()]+?)\s*\(([^()]*)\)")
     for m in pattern.finditer(s):
         uni = m.group(1).strip(" ,;")
@@ -34,27 +32,36 @@ def parse_education(edu: str):
         pairs.append((uni, deg))
         if len(pairs) == 3:
             break
-    # If nothing matched (no parentheses at all) → treat as one university, no degree
+
     if not pairs:
         pairs.append((s.strip(), None))
-    # Pad to 3
+
     while len(pairs) < 3:
         pairs.append((None, None))
+
     return pairs
 
-# Load data
-splited_path = glob.glob("data/external/web_scraped/wiki_university_degree_*.csv")[0]
-df = pd.read_csv(splited_path)
 
-# Parse education column
-parsed = df["education"].apply(parse_education)
+def split_university_degree(input_path: Path | None = None) -> Path:
+    if input_path is None:
+        files = glob("data/external/web_scraped/wiki_university_degree_*.csv")
+        if not files:
+            raise FileNotFoundError(
+                "No scraped education file found. Run src/scrapers/university_degree.py first."
+            )
+        input_path = Path(max(files))
 
-# Create new columns
-for i in range(3):
-    df[f"university_{i+1}"] = parsed.apply(lambda lst: lst[i][0])
-    df[f"degree_{i+1}"] = parsed.apply(lambda lst: lst[i][1])
+    df = pd.read_csv(input_path)
 
-# Save with timestamp in the same folder
-stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-out_file = f"data/interim/splited_edu_{stamp}.csv"
-df.to_csv(out_file, index=False)
+    parsed = df["education"].apply(parse_education)
+
+    for i in range(3):
+        df[f"university_{i + 1}"] = parsed.apply(lambda lst: lst[i][0])
+        df[f"degree_{i + 1}"] = parsed.apply(lambda lst: lst[i][1])
+
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    out_path = Path("data/interim") / f"splited_edu_{stamp}.csv"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    df.to_csv(out_path, index=False)
+    return out_path

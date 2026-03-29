@@ -20,54 +20,97 @@ This project combines data collection, transformation, and machine learning to:
 - **Model** success factors and predictive traits
 - **Visualize** insights through interactive dashboards
 
+## 🔗 Quick Links
+
+- [Latest processed dataset](data/processed/merged_dataset_2026-03-29.csv)
+- [Data exploration notebook](notebooks/0.01-mb-data-exploration.ipynb)
+- [Data cleaning notebook](notebooks/1.01-mb-data-cleaning.ipynb)
+- [Visualization notebook](notebooks/2.01-mb-visualization.ipynb)
+- [Modeling notebook](notebooks/3.01-mb-modeling.ipynb)
+- [Project report notebook](notebooks/4.01-mb-report.ipynb)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- Python 3.10+
-- Docker & Docker Compose
-- PostgreSQL (via Docker)
+- Python 3.12 recommended
+- `uv`
+- A valid `RAPIDAPI_KEY` in `.env`
+- Docker/PostgreSQL only if you want the optional database workflow
 
 ### Installation
 
-1. **Clone the repository**
+Install the project and development dependencies from `pyproject.toml` and `uv.lock`:
 
 ```bash
-git clone https://github.com/micben-cs/successfactors.git
-cd successfactors
+make install
 ```
 
-2. **Set up virtual environment**
+This runs:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv sync --frozen --extra dev
 ```
 
-3. **Install dependencies**
+### Run The Pipeline
 
 ```bash
-pip install -r requirements.txt
-pip install -r requirements-dev.txt  # For development
+make run
 ```
 
-4. **Set up environment variables**
+This command:
+
+- fetches the latest Forbes data
+- reuses existing Wikipedia scrape files if they already exist
+- otherwise scrapes missing Wikipedia birth-date and education data
+- writes the merged output to `data/processed/merged_dataset_<YYYY-MM-DD>.csv`
+
+### Use The Included Data
+
+This repository already includes generated data files under `data/`, including:
+
+- `data/external/api_fetched/`
+- `data/external/web_scraped/`
+- `data/interim/`
+- `data/processed/`
+
+If you only want to inspect the latest results, you can open the latest CSV in `data/processed/` without rerunning the pipeline.
+
+### Scrape Limit
+
+When the pipeline needs to generate fresh Wikipedia scrape files, it limits scraping to `10` people by default.
+
+You can change that with `SCRAPE_LIMIT`:
 
 ```bash
-cp .env.example .env
-# Edit .env with your API keys and database credentials
+SCRAPE_LIMIT=10 make run
+SCRAPE_LIMIT=100 make run
+SCRAPE_LIMIT=all make run
 ```
 
-5. **Start the database**
+Notes:
+
+- `SCRAPE_LIMIT=all` removes the limit and attempts to scrape every Forbes row.
+- If scrape files already exist in `data/external/web_scraped/`, `make run` will reuse them.
+- To force a new scrape with a different limit, delete or rename the existing `wiki_date_of_birth_*.csv` and `wiki_university_degree_*.csv` files first.
+- The merged dataset still contains the full Forbes row set. The scrape limit only controls how many rows get newly scraped Wikipedia enrichment during regeneration.
+
+### Scrape Only
+
+If you want to refresh only the Wikipedia scrape inputs:
 
 ```bash
-docker-compose up -d
+make scrape
 ```
 
-6. **Run the project**
+### Optional Database Workflow
+
+`make run` does not require PostgreSQL.
+
+If you want the database container for SQL work, start it with:
 
 ```bash
-python -m successfactors
+docker compose up -d db
 ```
 
 ## 📊 Data Pipeline
@@ -98,92 +141,33 @@ The project follows a structured ETL pipeline:
 ## 📁 Project Structure
 
 ```text
-├── .dockerignore        <- Docker ignore file for build optimization   ┐
-├── .env                 <- Environment variables (API keys, secrets)   │ <- not in version control
-├── .gitignore           <- Git ignore file specifying untracked files. │
-├── .venv/               <- Virtual environment directory               ┘
-├── docker-compose.yml   <- Docker Compose configuration for multi-container setup
-├── Dockerfile           <- Docker container configuration
-├── LICENSE              <- MIT License for open-source distribution
-├── Makefile             <- Makefile with convenience commands like `make data` or `make train`
-├── README.md            <- The top-level README for developers using this project.
-├── data
-│   ├── external         <- Data from third party sources.
-│   │   ├── API_fetched  <- Raw JSON data retrieved from APIs (e.g., Forbes billionaires)
-│   │   └── web_scraped  <- CSV data scraped from websites (e.g., Wikipedia biographical info)
-│   ├── interim          <- Intermediate data that has been transformed.
-│   ├── processed        <- The final, canonical data sets for modeling.
-│   └── raw              <- The original, immutable data dump.
-│
-├── docs                 <- A default mkdocs project; see www.mkdocs.org for details
-│
-├── models               <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks            <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│   └── sql_connections  <- Database connection examples and methods in Jupyter Notebook
-│
-├── pyproject.toml       <- Project configuration file with package metadata for
-│                         successfactors and configuration for tools like black
-│
-├── references           <- Data dictionaries, manuals, and all other explanatory materials.
-│
-├── reports              <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures          <- Generated graphics and figures to be used in reporting
-│
-├── requirements.txt     <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
-│
-├── requirements-dev.txt <- Development dependencies for testing and code quality
-│
-├── tests/               <- Unit tests and test fixtures
-│
-└── successfactors       <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes successfactors a Python module
-    │
-    ├── __main__.py             <- Entry point for running the package as a module
-    │
-    ├── api_fetchers            <- Scripts to fetch data from external APIs
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── data_transformers       <- Scripts to clean and transform raw data
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling
-    │   ├── __init__.py
-    │   ├── predict.py          <- Code to run model inference with trained models
-    │   └── train.py            <- Code to train models
-    │
-    ├── plots.py                <- Code to create visualizations
-    │
-    ├── processors              <- Data processing utilities and pipelines
-    │
-    ├── sql                     <- SQL scripts organized by purpose
-    │   ├── analytics           <- Analytical queries and data exploration SQL
-    │   ├── commands.md         <- SQL command documentation and examples
-    │   ├── schema              <- Database schema definitions and table creation scripts
-    │   └── staging             <- Data staging and ETL SQL scripts
-    │
-    └── web_scrapers            <- Scripts to scrape data from websites
+├── data/
+│   ├── external/
+│   │   ├── api_fetched/
+│   │   └── web_scraped/
+│   ├── interim/
+│   └── processed/
+├── notebooks/
+├── src/
+│   ├── api_fetchers/
+│   ├── data_transformers/
+│   ├── modeling/
+│   ├── scrapers/
+│   ├── sql/
+│   ├── config.py
+│   ├── dataset.py
+│   ├── features.py
+│   └── plots.py
+├── Dockerfile
+├── docker-compose.yml
+├── Makefile
+├── pyproject.toml
+└── uv.lock
 ```
 
 ---
 
 ## 🔧 Development
-
-### Running Tests
-
-```bash
-make test
-# or
-pytest tests/
-```
 
 ### Code Quality
 
@@ -192,64 +176,25 @@ make lint      # Check code style
 make format    # Format code
 ```
 
+### Common Commands
+
+```bash
+make help      # List available commands
+make install   # Install dependencies with uv
+make scrape    # Refresh the Wikipedia scrape files
+make run       # Run the full pipeline
+```
+
 ### Database Operations
 
 ```bash
-# Start PostgreSQL container
-docker-compose up -d
-
-# Run database migrations
-make migrate
-
-# Access database directly
-docker exec -it success-db-y psql -U $POSTGRES_USER -d $POSTGRES_DB
+docker compose up -d db
 ```
 
 ### Jupyter Notebooks
 
 ```bash
-jupyter lab
-# Navigate to notebooks/ directory
-```
-
-## 📈 Key Features
-
-- **🔍 Data Collection**: Automated API fetching and web scraping
-- **🧹 Data Cleaning**: Robust ETL pipeline with data validation
-- **🏗️ Database**: Structured PostgreSQL schema with indexes
-- **📊 Analysis**: Statistical analysis and pattern recognition
-- **🤖 ML Modeling**: Predictive models for success factors
-- **📝 Documentation**: Comprehensive docs with MkDocs
-- **🐳 Containerized**: Full Docker support for reproducibility
-
-## 🗂️ Data Schema
-
-### Main Tables
-
-- **billionaires**: Core demographic and financial data
-- **education**: University degrees and academic backgrounds
-- **careers**: Professional history and industry patterns
-
-### Key Metrics
-
-- Net worth trends and distributions
-- Educational institution rankings
-- Industry success patterns
-- Geographic concentration analysis
-
-## 📚 Documentation
-
-Full documentation is available in the `docs/` directory:
-
-- [Getting Started Guide](docs/docs/getting-started.md)
-- [Data Codebook](docs/docs/codebook.md)
-- [API Documentation](docs/)
-
-Build docs locally:
-
-```bash
-cd docs
-mkdocs serve
+uv run jupyter lab
 ```
 
 ## 🤝 Contributing

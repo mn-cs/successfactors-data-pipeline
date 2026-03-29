@@ -1,22 +1,23 @@
-# Use a lightweight official Python base image
-FROM python:3.12-slim  
+# Use the official Python image as the base image
+FROM python:3.12-slim
 
-# Set the working directory inside the container to /app
-WORKDIR /app  
+# Set the working directory in the container
+WORKDIR /app
 
-# Environment settings:
-# - PYTHONDONTWRITEBYTECODE=1 → prevents Python from writing .pyc files
-# - PYTHONUNBUFFERED=1 → makes Python output show up immediately (no buffering)
-ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1  
+# Set environment variables to prevent Python from writing .pyc files and to ensure that output is sent straight to the terminal
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PATH="/app/.venv/bin:$PATH"
 
-# Copy the requirements file first (so pip install layer can be cached)
-COPY requirements.txt .  
+# Install uv and other dependencies
+RUN pip install --upgrade pip && pip install uv
 
-# Install dependencies listed in requirements.txt
-RUN pip install --upgrade pip && pip install -r requirements.txt  
+# Copy the pyproject.toml and uv.lock files to the working directory
+COPY pyproject.toml uv.lock ./
+COPY . .
 
-# Copy the rest of your project code into the container
-COPY . .  
+# Install the dependencies specified in the pyproject.toml file using uv
+RUN uv sync --frozen --no-dev
 
-# Set the default command: run your app (replace with your entry point)
-CMD ["python", "main.py"]
+# Start the pipeline in the uv-managed environment
+CMD ["uv", "run", "python", "src/dataset.py"]
