@@ -22,12 +22,12 @@ This project combines data collection, transformation, and machine learning to:
 
 ## 🔗 Quick Links
 
-- [Latest processed dataset](data/processed/merged_dataset_2026-03-29.csv)
-- [Data exploration notebook](notebooks/0.01-mb-data-exploration.ipynb)
-- [Data cleaning notebook](notebooks/1.01-mb-data-cleaning.ipynb)
-- [Visualization notebook](notebooks/2.01-mb-visualization.ipynb)
-- [Modeling notebook](notebooks/3.01-mb-modeling.ipynb)
-- [Project report notebook](notebooks/4.01-mb-report.ipynb)
+- [Included Dataset Snapshot (CSV)](data/interim/merged_dataset_2025-09-04.csv)
+- [Exploratory Analysis Notebook](notebooks/0.01-mb-data-exploration.ipynb)
+- [Data Cleaning Workflow](notebooks/1.01-mb-data-cleaning.ipynb)
+- [Visualization Notebook](notebooks/2.01-mb-visualization.ipynb)
+- [Education Split Notebook](notebooks/edu_split.ipynb)
+- [Dataset Merge Notebook](notebooks/merge.ipynb)
 
 ## 🚀 Quick Start
 
